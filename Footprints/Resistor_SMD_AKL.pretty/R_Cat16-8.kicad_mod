@@ -46,7 +46,7 @@
   (pad "14" smd roundrect (at 0.76 -1.2 180) (size 0.76 0.43) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 1067c9ba-e82a-40ef-94e0-ca4e848d5dbf))
   (pad "15" smd roundrect (at 0.76 -2 180) (size 0.76 0.43) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 2892037f-d0a6-45c4-a265-830a2efc0b5d))
   (pad "16" smd roundrect (at 0.76 -2.8 180) (size 0.76 0.43) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 46756e75-f07c-45ff-be6f-9a0df9237716))
-  (model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_Cat16-8.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_Cat16-8.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

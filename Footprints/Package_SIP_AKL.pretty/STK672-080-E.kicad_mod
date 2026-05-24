@@ -58,7 +58,7 @@
   (pad "13" thru_hole oval (at 24 0) (size 1.45 2) (drill 0.85) (layers *.Cu *.Mask) (tstamp 03caf66b-b024-417f-a9da-713784fa5563))
   (pad "14" thru_hole oval (at 26 0) (size 1.45 2) (drill 0.85) (layers *.Cu *.Mask) (tstamp 013191fa-2244-44c1-bdae-865ddf452b59))
   (pad "15" thru_hole oval (at 28 0) (size 1.45 2) (drill 0.85) (layers *.Cu *.Mask) (tstamp de5cb8dd-5143-41bb-bd55-43a8c4595bfe))
-  (model "${KICAD6_3DMODEL_DIR}/Package_SIP.3dshapes/STK672-080-E.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Package_SIP.3dshapes/STK672-080-E.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

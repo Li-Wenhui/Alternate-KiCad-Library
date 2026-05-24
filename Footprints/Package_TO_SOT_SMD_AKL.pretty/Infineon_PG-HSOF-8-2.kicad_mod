@@ -92,7 +92,7 @@
   (pad "4" smd roundrect (at 3.8 0 90) (size 8.7 4) (layers "F.Cu" "F.Mask") (roundrect_rratio 0.05) (tstamp 2462145a-976f-43ba-a388-018199eda859))
   (pad "4" smd roundrect (at 5.95 0 90) (size 10.1 1.4) (layers "F.Cu" "F.Mask") (roundrect_rratio 0.1785714286) (tstamp 6712c190-ff8f-4309-9f05-fb32996295e2))
   (pad "4" smd roundrect (at 0.5 0 90) (size 9.7 3.7) (layers "F.Cu" "F.Mask") (roundrect_rratio 0.06756756757) (tstamp e7380754-f282-49d1-953e-3c2f2de073bd))
-  (model "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/Infineon_PG-HSOF-8-1.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/Infineon_PG-HSOF-8-1.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

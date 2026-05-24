@@ -28,7 +28,7 @@
   (fp_circle (center 2.5 0) (end 7.75 0) (layer "F.Fab") (width 0.1) (fill none) (tstamp 4e3154fe-97b3-4357-8c48-a039c286e135))
   (pad "1" thru_hole circle (at 0 0) (size 2.6 2.6) (drill 1.3) (layers *.Cu *.Mask) (tstamp 4c1a867c-fbf1-4e50-98b8-d323f5b2e798))
   (pad "2" thru_hole circle (at 5 0) (size 2.6 2.6) (drill 1.3) (layers *.Cu *.Mask) (tstamp b29a043e-28a3-4e3a-bab6-f37ae2b7c671))
-  (model "${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Radial_D10.5mm_P5.00mm_Abacron_AISR-01.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Radial_D10.5mm_P5.00mm_Abacron_AISR-01.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

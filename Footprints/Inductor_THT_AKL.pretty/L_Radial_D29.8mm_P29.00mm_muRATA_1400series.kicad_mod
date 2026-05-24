@@ -30,7 +30,7 @@
   (fp_circle (center 14.5 0) (end 29.4 0) (layer "F.Fab") (width 0.1) (fill none) (tstamp a487bb72-d48b-4440-b403-91dd7d589a09))
   (pad "1" thru_hole circle (at 0 0) (size 4 4) (drill 2) (layers *.Cu *.Mask) (tstamp ba2329cc-1419-4216-a9fe-a42408f6d859))
   (pad "2" thru_hole circle (at 29 0) (size 4 4) (drill 2) (layers *.Cu *.Mask) (tstamp 34166914-aa93-46f3-b2ba-57b827ec8bcf))
-  (model "${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Radial_D29.8mm_P29.00mm_muRATA_1400series.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Radial_D29.8mm_P29.00mm_muRATA_1400series.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

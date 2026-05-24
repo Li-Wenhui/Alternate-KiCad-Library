@@ -30,7 +30,7 @@
   (fp_arc (start 0.786375 1.753625) (mid 0.248779 -0.949055) (end 2.54 -2.48) (layer "F.Fab") (width 0.1) (tstamp dfa323bf-a07f-495e-a6fb-25102ce863a6))
   (pad "1" thru_hole rect (at 0 0 90) (size 1.5 1.5) (drill 0.8) (layers *.Cu *.Mask) (tstamp 05b84680-cb97-48e1-b368-37bd6704fd3e))
   (pad "2" thru_hole circle (at 5.08 0 90) (size 1.5 1.5) (drill 0.8) (layers *.Cu *.Mask) (tstamp 04b67b82-764e-42e7-8da3-f163adf71366))
-  (model "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-92-2_Wide.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-92-2_Wide.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -38,7 +38,7 @@
   (pad "3" thru_hole oval (at 5.08 0) (size 1.6 2.4) (drill 0.8) (layers *.Cu *.Mask) (tstamp 2f918011-b940-4b3b-a01c-fb281b2e0d7a))
   (pad "4" thru_hole oval (at 7.62 0) (size 1.6 2.4) (drill 0.8) (layers *.Cu *.Mask) (tstamp da779ef6-54ca-4ad4-a461-1e2e7c5b7cd4))
   (pad "5" thru_hole oval (at 10.16 0) (size 1.6 2.4) (drill 0.8) (layers *.Cu *.Mask) (tstamp 69b5792a-2d80-40fc-961d-4193366496ba))
-  (model "${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Array_SIP5.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Array_SIP5.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

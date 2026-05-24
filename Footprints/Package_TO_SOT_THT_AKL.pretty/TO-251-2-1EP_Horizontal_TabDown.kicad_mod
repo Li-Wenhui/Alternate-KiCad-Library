@@ -50,7 +50,7 @@
   (pad "1" thru_hole rect (at 0 0) (size 1.8 1.8) (drill 1.1) (layers *.Cu *.Mask) (tstamp 73247e6d-bb6c-431e-9ca1-70ae8693a554))
   (pad "2" thru_hole oval (at 4.58 0) (size 1.8 1.8) (drill 1.1) (layers *.Cu *.Mask) (tstamp 4769916e-157e-4d27-a953-4ce79f80eaa7))
   (pad "3" smd roundrect (at 2.29 -7.433333) (size 5.7 6.2) (layers "F.Cu" "F.Mask") (roundrect_rratio 0.04385964912) (tstamp 73cc4582-9d06-4d63-9ede-d81016a3934c))
-  (model "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-251-2-1EP_Horizontal_TabDown.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-251-2-1EP_Horizontal_TabDown.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -36,7 +36,7 @@
   (pad "2" smd roundrect (at 4.8 1.8) (size 1.8 1.9) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1388888889) (tstamp 8fe01b00-2f7b-449d-8cfa-055981849bd9))
   (pad "3" smd roundrect (at 4.8 -1.8) (size 1.8 1.9) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1388888889) (tstamp 934c1d89-9071-4fc4-9a8d-d723a4ea517b))
   (pad "4" smd roundrect (at -4.8 -1.8) (size 1.8 1.9) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1388888889) (tstamp 2345baeb-ab4a-4019-93c3-ea4974a15a14))
-  (model "${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_SeikoEpson_MA406-4Pin_11.7x4.0mm.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_SeikoEpson_MA406-4Pin_11.7x4.0mm.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

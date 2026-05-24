@@ -104,7 +104,7 @@
   (pad "2" thru_hole circle (at 4.55 0.95) (size 0.6 0.6) (drill 0.3) (property pad_prop_heatsink) (layers "*.Cu") (tstamp 23625704-d5fa-4207-bb42-89df73466e6e))
   (pad "2" thru_hole circle (at 4.55 2.85) (size 0.6 0.6) (drill 0.3) (property pad_prop_heatsink) (layers "*.Cu") (tstamp c4c07b35-b334-4e29-83a4-d68215ff0496))
   (pad "3" smd roundrect (at -4.35 2.3) (size 1.6 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1666666667) (tstamp b86f3853-28bf-49ea-b198-23e0aedd237d))
-  (model "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/ATPAK-2.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/ATPAK-2.step"
     (offset (xyz 0.6 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

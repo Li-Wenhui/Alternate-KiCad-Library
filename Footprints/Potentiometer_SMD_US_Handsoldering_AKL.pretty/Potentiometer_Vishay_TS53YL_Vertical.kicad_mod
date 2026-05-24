@@ -66,7 +66,7 @@
   (pad "1" smd roundrect (at 2.75 -1.15) (size 1.3 1.3) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1923076923) (tstamp c9bb7361-0c18-46e8-b9fc-9ccc0c068714))
   (pad "2" smd roundrect (at -2.75 0) (size 2 1.3) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1923076923) (tstamp 95c84262-3498-41a7-abfd-8bc83813f2b4))
   (pad "3" smd roundrect (at 2.75 1.15) (size 1.3 1.3) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1923076923) (tstamp bbe74e4b-9cc2-4937-a457-df0932a58949))
-  (model "${KICAD6_3DMODEL_DIR}/Potentiometer_SMD.3dshapes/Potentiometer_Vishay_TS53YL_Vertical.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Potentiometer_SMD.3dshapes/Potentiometer_Vishay_TS53YL_Vertical.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -35,7 +35,7 @@
   (pad "1" thru_hole circle (at 0 0) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp b900d405-d7dd-43fa-9b29-a4510ae1e6ea))
   (pad "2" thru_hole circle (at 2.5 0) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp 06201435-2c08-4685-ad24-b969bb7783e0))
   (pad "3" thru_hole circle (at 5 0) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp 9e9ddbc4-1e28-4efc-a4bb-1d999dd57dfc))
-  (model "${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Resonator_muRata_DSN6-3Pin_W7.0mm_H2.5mm.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Crystal.3dshapes/Resonator_muRata_DSN6-3Pin_W7.0mm_H2.5mm.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

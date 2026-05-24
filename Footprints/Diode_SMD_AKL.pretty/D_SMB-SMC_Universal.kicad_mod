@@ -59,7 +59,7 @@
   (fp_rect (start -1.8 -2) (end -1.2 2) (layer "F.Fab") (width 0.1) (fill solid) (tstamp fff0627a-c2d0-4872-88fd-fc7d41e69170))
   (pad "1" smd trapezoid (at -3.2 0) (size 4.3 2.6) (rect_delta 1 0) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 23c038bb-0375-4c2d-aafc-eff05ebb351d))
   (pad "2" smd trapezoid (at 3.2 0 180) (size 4.3 2.6) (rect_delta 1 0) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 5e35b8a9-7513-42c2-b179-c83064609966))
-  (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SMC.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SMC.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

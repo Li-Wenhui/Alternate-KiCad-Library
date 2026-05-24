@@ -182,7 +182,7 @@
   (pad "45" thru_hole circle (at 2.925 0.595) (size 0.6 0.6) (drill 0.3) (property pad_prop_heatsink) (layers "*.Cu") (tstamp c22c7029-7fe2-4d77-94a1-1293627b4dda))
   (pad "45" thru_hole circle (at 2.925 1.785) (size 0.6 0.6) (drill 0.3) (property pad_prop_heatsink) (layers "*.Cu") (tstamp abe5f2a3-bf36-4d82-aa4b-adcfd48b63e1))
   (pad "45" thru_hole circle (at 2.925 2.925) (size 0.6 0.6) (drill 0.3) (property pad_prop_heatsink) (layers "*.Cu") (tstamp 85a06b2a-20ca-4274-8865-4cabd0d8ad0d))
-  (model "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-44-1EP_8x8mm_P0.65mm_EP6.45x6.45mm.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-44-1EP_8x8mm_P0.65mm_EP6.45x6.45mm.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

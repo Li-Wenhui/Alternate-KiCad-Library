@@ -79,7 +79,7 @@
   (pad "B19" smd oval (at -0.7 -1.925) (size 0.3 0.42) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp a5112979-73c5-464a-bee8-e747e9cc6b6c))
   (pad "B20" smd oval (at -1.4 -1.925) (size 0.3 0.42) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp ea259fc4-39f6-48ff-aeea-0d16d1d63a18))
   (pad "EP" smd roundrect (at 0 0) (size 2.65 2.65) (layers "F.Cu" "F.Mask") (roundrect_rratio 0.094) (tstamp 3bfb5443-82ec-4496-ae40-063c3e2a279a))
-  (model "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Microchip_DRQFN-44-1EP_5x5mm_P0.7mm_EP2.65x2.65mm.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Microchip_DRQFN-44-1EP_5x5mm_P0.7mm_EP2.65x2.65mm.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

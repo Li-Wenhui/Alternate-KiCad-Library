@@ -35,7 +35,7 @@
   (fp_arc (start -0.85 -1.1) (mid -0.703553 -1.453553) (end -0.35 -1.6) (layer "F.Fab") (width 0.12) (tstamp 91377d92-91fc-45ca-88bb-f9015d72f127))
   (pad "1" thru_hole rect (at 0 0 180) (size 1.05 1.5) (drill 0.75) (layers *.Cu *.Mask) (tstamp f9ac57ef-df6d-4aa9-ad0a-e1b8bd697177))
   (pad "2" thru_hole oval (at 2.54 0 180) (size 1.05 1.5) (drill 0.75) (layers *.Cu *.Mask) (tstamp 8c85dfce-08fa-47d7-a578-a2860f896387))
-  (model "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/Heraeus_TO-92-2.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/Heraeus_TO-92-2.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

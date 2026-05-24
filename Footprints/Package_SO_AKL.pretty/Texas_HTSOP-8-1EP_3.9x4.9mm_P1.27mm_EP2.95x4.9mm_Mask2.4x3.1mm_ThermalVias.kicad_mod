@@ -114,7 +114,7 @@
   (pad "9" thru_hole circle (at 0.65 -1.3) (size 0.6 0.6) (drill 0.3) (property pad_prop_heatsink) (layers "*.Cu" "*.Mask") (tstamp 1420de30-240c-422c-8b37-6d10a9b7f212))
   (pad "9" thru_hole circle (at 0.65 0) (size 0.6 0.6) (drill 0.3) (property pad_prop_heatsink) (layers "*.Cu" "*.Mask") (tstamp 591b5c90-a4aa-4f19-a5ca-7e40efac14eb))
   (pad "9" thru_hole circle (at 0.65 1.3) (size 0.6 0.6) (drill 0.3) (property pad_prop_heatsink) (layers "*.Cu" "*.Mask") (tstamp c73ca53e-7dd1-46f9-8a4a-3e0245d7f44a))
-  (model "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/Texas_HTSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.85x4.9mm_Mask2.4x3.1mm_ThermalVias.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Package_SO.3dshapes/Texas_HTSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.85x4.9mm_Mask2.4x3.1mm_ThermalVias.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

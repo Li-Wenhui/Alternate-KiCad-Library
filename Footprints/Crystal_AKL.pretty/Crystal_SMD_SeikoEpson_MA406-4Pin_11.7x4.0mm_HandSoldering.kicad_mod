@@ -36,7 +36,7 @@
   (pad "2" smd rect (at 4.89 2.275) (size 1.98 2.85) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp a723f347-9bd6-4bd3-a4c5-ec2d9c39a6e6))
   (pad "3" smd rect (at 4.89 -2.275) (size 1.98 2.85) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 752cbb81-a0e4-4a9f-a877-c56bc35073f8))
   (pad "4" smd rect (at -4.89 -2.275) (size 1.98 2.85) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 5f5468a8-337a-4696-998f-ae5b6a85675e))
-  (model "${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_SeikoEpson_MA406-4Pin_11.7x4.0mm.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_SeikoEpson_MA406-4Pin_11.7x4.0mm.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

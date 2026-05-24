@@ -29,7 +29,7 @@
   (pad "1" thru_hole circle (at 0 0) (size 1.62 1.62) (drill 0.9) (layers *.Cu *.Mask) (tstamp 0a17c33b-7f5e-400b-b9de-65c3a844ae6f))
   (pad "2" thru_hole circle (at 5 -2.5) (size 1.62 1.62) (drill 0.9) (layers *.Cu *.Mask) (tstamp 2d70fa8d-337d-49e5-abc1-439d77091b38))
   (pad "3" thru_hole circle (at 0 -5) (size 1.62 1.62) (drill 0.9) (layers *.Cu *.Mask) (tstamp 5e8790d1-22f2-44f4-b270-350011a9ec24))
-  (model "${KICAD6_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Piher_PT-6-V_Vertical_Hole.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Piher_PT-6-V_Vertical_Hole.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

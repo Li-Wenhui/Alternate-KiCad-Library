@@ -35,7 +35,7 @@
   (pad "" np_thru_hole circle (at 18.75 0) (size 3.2 3.2) (drill 3.2) (layers *.Cu *.Mask) (tstamp 673cbcba-c3cc-4ba3-8b58-d7888ad8dc8c))
   (pad "1" thru_hole oval (at 0 0) (size 3.25 6) (drill 1.3) (layers *.Cu *.Mask) (tstamp a7d86817-d1b2-4afe-944f-385b4d2049f2))
   (pad "2" thru_hole oval (at 37.5 0) (size 3.25 6) (drill 1.3) (layers *.Cu *.Mask) (tstamp 91e79148-2011-484c-9db8-67837b6f5555))
-  (model "${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuseholder_Cylinder-6.3x32mm_Schurter_0031-8002_Horizontal_Open.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Fuse.3dshapes/Fuseholder_Cylinder-6.3x32mm_Schurter_0031-8002_Horizontal_Open.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

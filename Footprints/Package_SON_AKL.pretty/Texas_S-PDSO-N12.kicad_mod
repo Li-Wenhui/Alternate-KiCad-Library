@@ -79,7 +79,7 @@
   (pad "13" smd rect (at 1.1 -0.975) (size 0.4 0.55) (layers "F.Cu" "F.Mask") (tstamp 443629f4-0a2d-41a4-a71e-9e38e1d7d0bb))
   (pad "13" smd rect (at 1.1 0.975) (size 0.4 0.55) (layers "F.Cu" "F.Mask") (tstamp 8a0f20ca-6e88-4f5e-9efb-9894a78a6642))
   (pad "13" smd roundrect (at 1.1 1.375) (size 0.4 0.55) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 69c159b5-0eb0-4ed6-81a6-0bdb564bab65))
-  (model "${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/Texas_S-PDSO-N12.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Package_SON.3dshapes/Texas_S-PDSO-N12.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

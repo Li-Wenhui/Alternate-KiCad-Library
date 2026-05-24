@@ -67,7 +67,7 @@
   (fp_rect (start -3.65 -2.15) (end -2.223 2.15) (layer "F.Fab") (width 0.1) (fill solid) (tstamp 786c4136-0c05-4b3a-bb6a-20e1fb59b0b8))
   (pad "1" smd roundrect (at -3.1125 0) (size 2.075 2.55) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.120482) (tstamp c9a47161-511c-4c40-b475-f36c0ca62000))
   (pad "2" smd roundrect (at 3.1125 0) (size 2.075 2.55) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.120482) (tstamp 0d367bef-9a98-40d4-9143-0c306738f05b))
-  (model "${KICAD6_3DMODEL_DIR}/Capacitor_Tantalum_SMD.3dshapes/CP_EIA-7343-43_Kemet-X.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Capacitor_Tantalum_SMD.3dshapes/CP_EIA-7343-43_Kemet-X.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

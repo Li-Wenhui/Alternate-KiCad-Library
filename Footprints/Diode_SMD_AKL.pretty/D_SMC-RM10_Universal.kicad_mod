@@ -43,7 +43,7 @@
   (fp_rect (start -2.8 -3.1) (end -1.8 3.1) (layer "F.Fab") (width 0.1) (fill solid) (tstamp a7948f4c-a11d-4479-97e2-bf7693e50c30))
   (pad "1" thru_hole rect (at -5 0) (size 4.5 3.3) (drill 1.2 (offset 0.6 0)) (layers *.Cu *.Mask) (tstamp 0cdcb70b-8e97-4ff4-bcaf-44d2b3d88801))
   (pad "2" thru_hole rect (at 5 0 180) (size 4.5 3.3) (drill 1.2 (offset 0.6 0)) (layers *.Cu *.Mask) (tstamp 65938ed0-94c5-40a0-94e7-fda6ed7bc553))
-  (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SMC.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SMC.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

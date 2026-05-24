@@ -263,7 +263,7 @@
   (pad "4" thru_hole circle (at 4.95 4) (size 0.6 0.6) (drill 0.3) (property pad_prop_heatsink) (layers "*.Cu" "*.Mask")
     (solder_mask_margin -0.1) (tstamp 069f93d7-b0b6-48a9-bfeb-55cfd7e2fb36))
   (pad "4" smd roundrect (at 5.95 0 90) (size 10.3 1.6) (layers "F.Cu") (roundrect_rratio 0.15625) (tstamp 3f2df5db-70c3-427b-b7d5-54e09ebc13e3))
-  (model "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/Infineon_PG-HSOF-8-1.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/Infineon_PG-HSOF-8-1.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

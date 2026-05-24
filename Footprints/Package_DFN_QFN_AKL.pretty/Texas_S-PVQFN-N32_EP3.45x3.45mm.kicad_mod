@@ -88,7 +88,7 @@
   (pad "31" smd roundrect (at -1.25 -2.4375) (size 0.25 0.875) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp d996bebd-389b-4087-ae4d-04f187464d49))
   (pad "32" smd roundrect (at -1.75 -2.4375) (size 0.25 0.875) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 258706bc-d5d9-4370-b4ac-2e51aac0fcdd))
   (pad "33" smd roundrect (at 0 0) (size 3.45 3.45) (layers "F.Cu" "F.Mask") (roundrect_rratio 0.07246376812) (tstamp a9ad1d4e-dd33-49f2-8d9f-c161df3f550f))
-  (model "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_S-PVQFN-N32_EP3.45x3.45mm.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_S-PVQFN-N32_EP3.45x3.45mm.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

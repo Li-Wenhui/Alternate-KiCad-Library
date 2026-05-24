@@ -144,7 +144,7 @@
   (pad "C2" smd roundrect (at -4.25 4.25) (size 0.3 0.3) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 61a24f78-2c12-4725-90e8-97d74815cb12))
   (pad "C3" smd roundrect (at 4.25 4.25) (size 0.3 0.3) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp bf139198-7b18-493b-9f5e-3e2d982d6c1e))
   (pad "C4" smd roundrect (at 4.25 -4.25) (size 0.3 0.3) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 5888d291-4bb4-47c3-bad7-c20baf584b57))
-  (model "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_WQFN-MR-100.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_WQFN-MR-100.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

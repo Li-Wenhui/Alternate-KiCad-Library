@@ -326,7 +326,7 @@
   (pad "37" thru_hole circle (at 2 0) (size 0.7 0.7) (drill 0.3) (property pad_prop_heatsink) (layers *.Cu) (tstamp 0cb5d777-7661-400d-aff8-0b6eefb6bc09))
   (pad "37" thru_hole circle (at 2 1.6) (size 0.7 0.7) (drill 0.3) (property pad_prop_heatsink) (layers *.Cu) (tstamp 72596743-127a-4dae-b0d8-a8ebea2f9064))
   (pad "37" thru_hole circle (at 2 3.2) (size 0.7 0.7) (drill 0.3) (property pad_prop_heatsink) (layers *.Cu) (tstamp 6b05aed7-c6e7-46d1-9aef-b5783263b0e1))
-  (model "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/ST_PowerSSO-36_SlugDown.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Package_SO.3dshapes/ST_PowerSSO-36_SlugDown.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

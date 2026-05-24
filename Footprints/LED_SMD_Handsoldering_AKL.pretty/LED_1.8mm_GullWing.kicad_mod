@@ -337,7 +337,7 @@
 		(roundrect_rratio 0.25)
 		(uuid "ca374b43-73d5-4245-999b-7670a3d67a17")
 	)
-	(model "${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_Osram_Lx_P47F_D2mm_ReverseMount.wrl"
+	(model "${KICAD10_3DMODEL_DIR}/LED_SMD.3dshapes/LED_Osram_Lx_P47F_D2mm_ReverseMount.step"
 		(offset
 			(xyz 0 0 0)
 		)

@@ -27,7 +27,7 @@
   (fp_circle (center 0 0) (end 1.35 0) (layer "F.Fab") (width 0.1) (fill none) (tstamp d82ac566-fa5e-47ec-9f52-f9b5e3032999))
   (pad "1" thru_hole circle (at 0 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask) (tstamp 221b2f66-0786-4fef-8efe-d916bae377f5))
   (pad "2" thru_hole oval (at 2.54 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask) (tstamp 60f4e84b-9fd8-4d6c-bedd-1ec99fdbd462))
-  (model "${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Axial_L6.6mm_D2.7mm_P2.54mm_Vertical_Vishay_IM-2.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Axial_L6.6mm_D2.7mm_P2.54mm_Vertical_Vishay_IM-2.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

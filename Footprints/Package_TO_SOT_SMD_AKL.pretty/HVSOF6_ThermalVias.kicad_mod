@@ -95,7 +95,7 @@
   (pad "7" smd roundrect (at 0 0) (size 1.6 1.6) (layers "B.Cu" "B.Mask") (roundrect_rratio 0.15625) (tstamp f9fc097b-4531-49e0-a335-1d807452b3ce))
   (pad "7" thru_hole circle (at 0.5 -0.5) (size 0.6 0.6) (drill 0.3) (property pad_prop_heatsink) (layers "*.Cu") (tstamp 37b3b38d-eaa1-4f4b-a684-bd7bc00520b6))
   (pad "7" thru_hole circle (at 0.5 0.5) (size 0.6 0.6) (drill 0.3) (property pad_prop_heatsink) (layers "*.Cu") (tstamp e4304549-0243-475d-a957-9d1e7363892c))
-  (model "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/HVSOF6.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/HVSOF6.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

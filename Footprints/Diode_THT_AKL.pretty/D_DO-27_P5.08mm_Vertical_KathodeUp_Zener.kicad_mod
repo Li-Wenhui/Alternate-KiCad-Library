@@ -41,7 +41,7 @@
   (fp_circle (center 5.08 0) (end 7.745 0) (layer "F.Fab") (width 0.1) (fill none) (tstamp abb22d7c-bd1a-4e15-8344-a03a4ed8cfd2))
   (pad "1" thru_hole rect (at 0 0) (size 2.4 2.4) (drill 1.2) (layers *.Cu *.Mask) (tstamp 08b57836-1f3e-430e-8dd2-a04332f8e08c))
   (pad "2" thru_hole oval (at 5.08 0) (size 2.4 2.4) (drill 1.2) (layers *.Cu *.Mask) (tstamp 7c967031-0348-4e70-aca6-e3d4b344c490))
-  (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-27_P5.08mm_Vertical_KathodeUp.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-27_P5.08mm_Vertical_KathodeUp.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

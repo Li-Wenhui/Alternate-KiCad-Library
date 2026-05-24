@@ -232,7 +232,7 @@
     (solder_mask_margin -0.1) (tstamp 9aed9909-3de0-4c12-967d-970f24f26dcb))
   (pad "21" thru_hole circle (at 1.6 2.4) (size 0.6 0.6) (drill 0.3) (property pad_prop_heatsink) (layers "*.Cu" "*.Mask")
     (solder_mask_margin -0.1) (tstamp c029e03e-3d14-49d5-a1f9-6733532ec5d7))
-  (model "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/ETSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3x4.2mm.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Package_SO.3dshapes/ETSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3x4.2mm.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

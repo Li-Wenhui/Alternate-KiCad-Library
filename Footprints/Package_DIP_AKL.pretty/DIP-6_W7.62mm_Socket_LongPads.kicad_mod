@@ -67,7 +67,7 @@
   (pad "4" thru_hole oval (at 7.62 5.08) (size 2.4 1.6) (drill 0.8) (layers *.Cu *.Mask) (tstamp cfc67eed-2ff2-412f-9626-6fc010a5a4c5))
   (pad "5" thru_hole oval (at 7.62 2.54) (size 2.4 1.6) (drill 0.8) (layers *.Cu *.Mask) (tstamp 71cd3333-0d38-4f47-85aa-2d797f636319))
   (pad "6" thru_hole oval (at 7.62 0) (size 2.4 1.6) (drill 0.8) (layers *.Cu *.Mask) (tstamp 27385662-262b-47e5-ab4d-9be22eba6933))
-  (model "${KICAD6_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-6_W7.62mm_Socket.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-6_W7.62mm_Socket.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -405,7 +405,7 @@
 			(xyz 0 0 0)
 		)
 	)
-	(model "C:/Program Files/KiCad/5.99/share/kicad/3dmodels/LED_THT.3dshapes/LED_Rectangular_W7.62mm_H4.55mm_P5.08mm_R3.wrl"
+	(model "C:/Program Files/KiCad/5.99/share/kicad/3dmodels/LED_THT.3dshapes/LED_Rectangular_W7.62mm_H4.55mm_P5.08mm_R3.step"
 		(offset
 			(xyz 0 0 0)
 		)

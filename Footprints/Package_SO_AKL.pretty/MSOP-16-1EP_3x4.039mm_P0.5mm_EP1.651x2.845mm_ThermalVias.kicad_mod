@@ -167,7 +167,7 @@
   (pad "17" thru_hole circle (at 0.5005 -1.0975) (size 0.6 0.6) (drill 0.3) (property pad_prop_heatsink) (layers "*.Cu") (tstamp da6f4d3c-723b-4f4e-b4c9-3781a9c378b3))
   (pad "17" thru_hole circle (at 0.5005 0) (size 0.6 0.6) (drill 0.3) (property pad_prop_heatsink) (layers "*.Cu") (tstamp cf3d0a06-6aa5-48c5-9cf0-739004f8e3e1))
   (pad "17" thru_hole circle (at 0.5005 1.0975) (size 0.6 0.6) (drill 0.3) (property pad_prop_heatsink) (layers "*.Cu") (tstamp c4ed7857-96f8-4385-9524-a41847c7a9bd))
-  (model "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/MSOP-16-1EP_3x4mm_P0.5mm_EP1.65x2.85mm.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Package_SO.3dshapes/MSOP-16-1EP_3x4mm_P0.5mm_EP1.65x2.85mm.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

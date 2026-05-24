@@ -30,7 +30,7 @@
   (fp_line (start 2.25 0.8) (end -2.25 0.8) (layer "F.Fab") (width 0.1) (tstamp cb8d20f8-6d7f-42a3-b8e1-b4153eb0f673))
   (pad "1" smd roundrect (at -2.0875 0) (size 1.575 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.15873) (tstamp 7b319c6a-5479-4099-8418-eeaeda3906a4))
   (pad "2" smd roundrect (at 2.0875 0) (size 1.575 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.15873) (tstamp 0320ee7b-6241-4912-bee1-cad14223c545))
-  (model "${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_1806_4516Metric.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_1806_4516Metric.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

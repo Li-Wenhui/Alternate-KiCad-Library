@@ -178,7 +178,7 @@
     (solder_mask_margin -0.1) (tstamp fbd6e11c-b5bf-4558-82ac-e8c6f8c3387d))
   (pad "33" thru_hole circle (at 2.4 2.4) (size 0.6 0.6) (drill 0.3) (property pad_prop_heatsink) (layers "*.Cu" "*.Mask")
     (solder_mask_margin -0.1) (tstamp aa6d2e39-5ec9-4bb2-8b2a-91a3b12c31ce))
-  (model "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Infineon_MLPQ-40-32-1EP_7x7mm_P0.5mm.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Infineon_MLPQ-40-32-1EP_7x7mm_P0.5mm.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

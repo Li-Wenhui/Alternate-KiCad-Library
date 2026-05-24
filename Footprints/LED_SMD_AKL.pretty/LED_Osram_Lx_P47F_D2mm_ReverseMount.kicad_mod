@@ -389,7 +389,7 @@
 		(zone_connect 2)
 		(uuid "fa6aa9c9-ae34-4c41-8455-507925aae0c4")
 	)
-	(model "${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_Osram_Lx_P47F_D2mm_ReverseMount.wrl"
+	(model "${KICAD10_3DMODEL_DIR}/LED_SMD.3dshapes/LED_Osram_Lx_P47F_D2mm_ReverseMount.step"
 		(offset
 			(xyz 0 0 0)
 		)

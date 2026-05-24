@@ -33,7 +33,7 @@
   (pad "2" smd roundrect (at 1.025 -1.975) (size 1.55 2.55) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1612903226) (tstamp f6bb605f-ceef-46d1-af2f-4f7c3138e8e4))
   (pad "3" smd roundrect (at 1.025 1.975) (size 1.55 2.55) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1612903226) (tstamp 3239b554-4085-452c-884a-4342be4579b9))
   (pad "4" smd roundrect (at -1.025 1.975) (size 1.55 2.55) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1612903226) (tstamp 2832e712-aab6-44c2-9d61-e70f3c56e90b))
-  (model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_Shunt_Ohmite_LVK20.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_Shunt_Ohmite_LVK20.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

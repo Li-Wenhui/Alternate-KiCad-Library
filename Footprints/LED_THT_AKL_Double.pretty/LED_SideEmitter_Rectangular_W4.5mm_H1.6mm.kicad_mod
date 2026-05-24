@@ -362,7 +362,7 @@
 		(remove_unused_layers no)
 		(uuid "e429dcaa-e760-4e8b-93f6-4fadba64b691")
 	)
-	(model "${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_SideEmitter_Rectangular_W4.5mm_H1.6mm.wrl"
+	(model "${KICAD10_3DMODEL_DIR}/LED_THT.3dshapes/LED_SideEmitter_Rectangular_W4.5mm_H1.6mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

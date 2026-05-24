@@ -242,7 +242,7 @@
     (solder_mask_margin -0.1) (tstamp 2ec3fd78-03bb-4a30-8793-76fbb29dcdb3))
   (pad "8" thru_hole circle (at 7.8 2) (size 0.6 0.6) (drill 0.3) (property pad_prop_heatsink) (layers "*.Cu" "*.Mask")
     (solder_mask_margin -0.1) (tstamp 3434f36a-6612-41cc-a928-68d7f9380ac3))
-  (model "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/TO-263-7_TabPin8.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/TO-263-7_TabPin8.step"
     (offset (xyz 2 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

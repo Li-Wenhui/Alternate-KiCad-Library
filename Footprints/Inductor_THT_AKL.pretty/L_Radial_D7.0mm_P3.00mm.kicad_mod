@@ -21,7 +21,7 @@
   (fp_circle (center 1.5 0) (end 5 0) (layer "F.Fab") (width 0.1) (fill none) (tstamp f7beb826-be1a-42a1-beb5-6fad475d8b27))
   (pad "1" thru_hole circle (at 0 0) (size 2.6 2.6) (drill 1.3) (layers *.Cu *.Mask) (tstamp cbcd02c0-bb89-4f46-9814-40666042916c))
   (pad "2" thru_hole circle (at 3 0) (size 2.6 2.6) (drill 1.3) (layers *.Cu *.Mask) (tstamp 516d0846-4fbb-4215-9033-587e0071122e))
-  (model "${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Radial_D7.0mm_P3.00mm.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Radial_D7.0mm_P3.00mm.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

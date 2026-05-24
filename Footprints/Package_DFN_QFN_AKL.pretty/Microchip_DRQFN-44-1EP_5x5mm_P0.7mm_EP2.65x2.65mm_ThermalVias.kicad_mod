@@ -89,7 +89,7 @@
   (pad "EP" thru_hole circle (at 1 0) (size 0.6 0.6) (drill 0.3) (property pad_prop_heatsink) (layers *.Cu) (tstamp 93056f8b-fca4-49a2-abf5-cff48ca1e76f))
   (pad "EP" smd roundrect (at 0 0) (size 2.65 2.65) (layers "B.Cu" "B.Mask") (roundrect_rratio 0.094) (tstamp c46a9358-79ec-4d5f-add0-3fb41384f46a))
   (pad "EP" thru_hole circle (at -1 1) (size 0.6 0.6) (drill 0.3) (property pad_prop_heatsink) (layers *.Cu) (tstamp ea3e16f4-271b-4bc5-bd29-af75b8e45932))
-  (model "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Microchip_DRQFN-44-1EP_5x5mm_P0.7mm_EP2.65x2.65mm.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Microchip_DRQFN-44-1EP_5x5mm_P0.7mm_EP2.65x2.65mm.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -78,7 +78,7 @@
   (pad "10" thru_hole oval (at -10.16 3.56) (size 1.4 1.4) (drill 0.8) (layers *.Cu *.Mask) (tstamp 9f0d51c0-0627-4a63-99ef-b874ed22f86c))
   (pad "11" thru_hole oval (at -10.16 1.78) (size 1.4 1.4) (drill 0.8) (layers *.Cu *.Mask) (tstamp 23cb2d3c-e59a-4a31-9db1-a54278da681c))
   (pad "12" thru_hole circle (at -10.16 0) (size 1.4 1.4) (drill 0.8) (layers *.Cu *.Mask) (tstamp 33df2095-d4f1-4e4e-a16c-5245e22d00e3))
-  (model "${KICAD6_3DMODEL_DIR}/Package_DIP.3dshapes/PowerIntegrations_eDIP-12B.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Package_DIP.3dshapes/PowerIntegrations_eDIP-12B.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

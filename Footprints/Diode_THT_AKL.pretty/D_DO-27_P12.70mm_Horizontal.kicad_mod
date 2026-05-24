@@ -53,7 +53,7 @@
   (fp_line (start 1.59 -2.665) (end 1.59 2.665) (layer "F.Fab") (width 0.1) (tstamp fa22f2e4-6400-4e4a-94e0-7c45579f9812))
   (pad "1" thru_hole rect (at 0 0) (size 2.4 2.4) (drill 1.2) (layers *.Cu *.Mask) (tstamp 7435a53b-8281-408e-9f03-dae12b17519a))
   (pad "2" thru_hole oval (at 12.7 0) (size 2.4 2.4) (drill 1.2) (layers *.Cu *.Mask) (tstamp 44e22600-7a9f-4c40-a602-2c62dacff5b2))
-  (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-27_P12.70mm_Horizontal.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-27_P12.70mm_Horizontal.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

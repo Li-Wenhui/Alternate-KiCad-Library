@@ -32,7 +32,7 @@
   (pad "2" smd roundrect (at -0.5 0.35) (size 0.5 0.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 4b656382-1ed8-4ff6-8047-9de96a37d50d))
   (pad "3" smd roundrect (at 0.5 0.35) (size 0.5 0.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 931f5f52-c7c9-4c55-86d7-0f97a328d4a3))
   (pad "4" smd roundrect (at 0.5 -0.35) (size 0.5 0.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp c982ef06-2fe2-4418-83e8-e1c8e5f54b2d))
-  (model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_Array_Convex_2x0402.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_Array_Convex_2x0402.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

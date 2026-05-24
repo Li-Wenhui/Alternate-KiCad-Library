@@ -50,7 +50,7 @@
   (fp_line (start 0.69 -3.0475) (end 0.69 -0.5275) (layer "F.Fab") (width 0.1) (tstamp dd2f6b13-9e35-4a67-90ac-cf0d1ea34e5a))
   (pad "1" thru_hole rect (at 0 0) (size 2 2) (drill 1.2) (layers *.Cu *.Mask) (tstamp e1105432-6a2f-45d9-8a08-47401d087cf4))
   (pad "2" thru_hole oval (at 5.08 0) (size 2 2) (drill 1.2) (layers *.Cu *.Mask) (tstamp 9538e4ed-27e6-4c37-b989-9859dc0d49e8))
-  (model "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-220F-2_Vertical.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-220F-2_Vertical.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

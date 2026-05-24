@@ -59,7 +59,7 @@
   (pad "9" smd roundrect (at 0 0) (size 0.6 1.6) (layers "B.Cu" "B.Mask") (roundrect_rratio 0.25) (tstamp e969a56c-dde8-405c-9869-7a59d75f205a))
   (pad "9" smd roundrect (at 0 0) (size 1.55 1.85) (layers "F.Cu" "F.Mask") (roundrect_rratio 0.1612903226) (tstamp a7b81599-8736-46a9-9914-858956df4273))
   (pad "9" thru_hole circle (at 0 0.5) (size 0.6 0.6) (drill 0.3) (property pad_prop_heatsink) (layers "F.Cu" "In1.Cu" "B.Cu") (tstamp 2ae01a6b-ee01-482d-a589-0f7904a5121e))
-  (model "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/DFN-8-1EP_3x3mm_P0.5mm_EP1.66x2.38mm.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/DFN-8-1EP_3x3mm_P0.5mm_EP1.66x2.38mm.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

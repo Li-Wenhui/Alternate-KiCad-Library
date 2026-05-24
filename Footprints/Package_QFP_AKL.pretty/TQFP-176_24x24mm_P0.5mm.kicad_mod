@@ -806,7 +806,7 @@
   (pad "174" smd roundrect (at -9.75 -12.6625) (size 0.3 1.475) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 55512d24-4b83-48ad-ab69-083b5553175e))
   (pad "175" smd roundrect (at -10.25 -12.6625) (size 0.3 1.475) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp f86dc722-81c0-47a8-b65e-57aac00e8f43))
   (pad "176" smd roundrect (at -10.75 -12.6625) (size 0.3 1.475) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 500a43d1-ab51-41e3-a1b2-c5356e728254))
-  (model "${KICAD6_3DMODEL_DIR}/Package_QFP.3dshapes/TQFP-176_24x24mm_P0.5mm.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Package_QFP.3dshapes/TQFP-176_24x24mm_P0.5mm.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

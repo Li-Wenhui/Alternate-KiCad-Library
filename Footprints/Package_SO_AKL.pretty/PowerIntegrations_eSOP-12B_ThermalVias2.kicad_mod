@@ -249,7 +249,7 @@
     (solder_mask_margin -0.1) (tstamp 995550da-f904-4e1f-9af6-cec856ae621c))
   (pad "13" thru_hole circle (at 3.1 4) (size 0.6 0.6) (drill 0.3) (property pad_prop_heatsink) (layers "*.Cu" "*.Mask")
     (solder_mask_margin -0.1) (tstamp 48c37179-6b0d-4ae1-afd2-b499921a0af2))
-  (model "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/PowerIntegrations_eSOP-12B.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Package_SO.3dshapes/PowerIntegrations_eSOP-12B.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -34,7 +34,7 @@
   (fp_line (start 2.25 -0.8) (end 2.25 0.8) (layer "F.Fab") (width 0.1) (tstamp 65972281-aa1f-4248-b70c-40212afb4123))
   (pad "1" smd roundrect (at -2.0875 0) (size 1.575 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.15873) (tstamp 202e2029-23a4-4e97-9122-53a54663930e))
   (pad "2" smd roundrect (at 2.0875 0) (size 1.575 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.15873) (tstamp f0b68715-96da-497a-a2c9-d1285e31aacf))
-  (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_1806_4516Metric.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_1806_4516Metric.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

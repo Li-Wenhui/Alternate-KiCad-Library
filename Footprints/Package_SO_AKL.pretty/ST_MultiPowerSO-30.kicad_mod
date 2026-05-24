@@ -202,7 +202,7 @@
   (pad "31" smd roundrect (at -3.05 0) (size 5.25 10.3) (layers "F.Cu" "F.Mask") (roundrect_rratio 0.04761904762) (tstamp 012dc2cf-18cb-4f4c-b9aa-8c7be5fded15))
   (pad "32" smd roundrect (at 3.05 4.165) (size 5.25 6.23) (layers "F.Cu" "F.Mask") (roundrect_rratio 0.04761904762) (tstamp 9b805895-97d8-4097-8fc5-a73b3036e45a))
   (pad "33" smd roundrect (at 3.05 -4.165) (size 5.25 6.23) (layers "F.Cu" "F.Mask") (roundrect_rratio 0.04761904762) (tstamp b5d6763d-220f-420b-ba18-d75ff873bd80))
-  (model "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/ST_MultiPowerSO-30.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Package_SO.3dshapes/ST_MultiPowerSO-30.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

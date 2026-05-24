@@ -480,7 +480,7 @@
 		(remove_unused_layers no)
 		(uuid "6ce716fd-f4d9-42d2-bc90-57ce36bf16be")
 	)
-	(model "${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_VCCLite_5381H7_6.35x6.35mm.wrl"
+	(model "${KICAD10_3DMODEL_DIR}/LED_THT.3dshapes/LED_VCCLite_5381H7_6.35x6.35mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

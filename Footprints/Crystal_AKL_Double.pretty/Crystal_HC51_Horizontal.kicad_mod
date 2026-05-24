@@ -64,7 +64,7 @@
   (fp_line (start 12.35 1.25) (end 12.35 0) (layer "F.Fab") (width 0.1) (tstamp f786d625-a6e6-4f6c-b681-21b1dc82ab9b))
   (pad "1" thru_hole circle (at 0 0) (size 2.3 2.3) (drill 1.2) (layers *.Cu *.Mask) (tstamp 1a66fa04-d823-4451-af1a-d9afba6c2a07))
   (pad "2" thru_hole circle (at 12.35 0) (size 2.3 2.3) (drill 1.2) (layers *.Cu *.Mask) (tstamp 0d75ffbc-6781-4250-8e9f-b7104b5963a5))
-  (model "${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_HC51_Horizontal.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Crystal.3dshapes/Crystal_HC51_Horizontal.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

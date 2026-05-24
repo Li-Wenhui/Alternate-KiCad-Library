@@ -35,7 +35,7 @@
   (pad "1" thru_hole circle (at 0 0) (size 1.5 1.5) (drill 0.8) (layers *.Cu *.Mask) (tstamp 3b29bab9-ef89-4237-a398-c79648a454f0))
   (pad "2" thru_hole circle (at 2.44 0) (size 1.5 1.5) (drill 0.8) (layers *.Cu *.Mask) (tstamp 981bf53a-c2cc-4099-81c1-09c44757a33a))
   (pad "3" thru_hole circle (at 4.88 0) (size 1.5 1.5) (drill 0.8) (layers *.Cu *.Mask) (tstamp ea51d9e4-a1e3-4e9b-b2e4-e955c0883190))
-  (model "${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_HC49-U-3Pin_Vertical.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Crystal.3dshapes/Crystal_HC49-U-3Pin_Vertical.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

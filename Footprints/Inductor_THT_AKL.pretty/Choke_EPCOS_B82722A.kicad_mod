@@ -71,7 +71,7 @@
   (pad "2" thru_hole circle (at 0 -20) (size 1.75 1.75) (drill 1.2) (layers *.Cu *.Mask) (tstamp 75557fe6-74e8-45c8-9aa0-0623e597e5b8))
   (pad "3" thru_hole circle (at 12.5 0) (size 1.75 1.75) (drill 1.2) (layers *.Cu *.Mask) (tstamp d27158a9-79c4-4106-b379-3db419b8a556))
   (pad "4" thru_hole circle (at 12.5 -20) (size 1.75 1.75) (drill 1.2) (layers *.Cu *.Mask) (tstamp 02c7fc42-7909-4157-a7f1-4442e9df46ba))
-  (model "${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/Choke_EPCOS_B82722A.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Inductor_THT.3dshapes/Choke_EPCOS_B82722A.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

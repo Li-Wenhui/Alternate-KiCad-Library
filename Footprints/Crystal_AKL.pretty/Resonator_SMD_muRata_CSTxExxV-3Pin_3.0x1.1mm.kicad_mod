@@ -32,7 +32,7 @@
   (pad "1" smd roundrect (at -1.2 0) (size 0.4 1.9) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp b4791175-9d56-4649-9f9e-5f8e4a84bd4f))
   (pad "2" smd roundrect (at 0 0) (size 0.4 1.9) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 8916c3a8-e00c-4e15-902f-1ee302d20c1a))
   (pad "3" smd roundrect (at 1.2 0) (size 0.4 1.9) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 0b1cf945-6972-48c0-a965-8382244d7f4f))
-  (model "${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Resonator_SMD_muRata_CSTxExxV-3Pin_3.0x1.1mm.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Crystal.3dshapes/Resonator_SMD_muRata_CSTxExxV-3Pin_3.0x1.1mm.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

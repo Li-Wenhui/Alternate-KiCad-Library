@@ -85,7 +85,7 @@
     (thermal_bridge_angle 45) (tstamp fd843a01-ccef-4049-bf8e-fe0049664378))
   (pad "13" smd roundrect (at 0 0) (size 2.8 3.5) (layers "F.Cu" "F.Mask") (roundrect_rratio 0.08928571429)
     (thermal_bridge_angle 45) (tstamp 95786fb3-1186-47fa-b429-39c6927c921b))
-  (model "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/ST_PowerSSO-24_SlugDown.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Package_SO.3dshapes/ST_PowerSSO-24_SlugDown.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

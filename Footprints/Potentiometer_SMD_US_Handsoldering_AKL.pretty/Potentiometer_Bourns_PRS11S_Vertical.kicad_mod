@@ -47,7 +47,7 @@
   (pad "3" smd roundrect (at -8.25 2.5) (size 4 2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.125) (tstamp a20af73d-8b47-4e12-a341-1cdf1f2f9868))
   (pad "4" smd roundrect (at 8.25 -2.5) (size 4 2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.125) (tstamp 9c6abadc-b714-478e-a9f7-cd8abc2cc5ec))
   (pad "5" smd roundrect (at 8.25 2.5) (size 4 2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.125) (tstamp 30eba1f3-4d02-42f6-a5ce-0bfc977ad581))
-  (model "${KICAD6_3DMODEL_DIR}/Potentiometer_SMD.3dshapes/Potentiometer_Bourns_PRS11S_Vertical.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Potentiometer_SMD.3dshapes/Potentiometer_Bourns_PRS11S_Vertical.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -67,7 +67,7 @@
   (pad "2" smd roundrect (at -4.37 2.55) (size 2 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1666666667) (tstamp e071ca6c-fe24-4cda-aaec-6ce22d952ebe))
   (pad "3" smd roundrect (at 4.37 2.55) (size 2 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1666666667) (tstamp 54b8dd9d-a2f3-44ef-9b95-32f478439b5d))
   (pad "4" smd roundrect (at 4.37 -2.55) (size 2 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1666666667) (tstamp 24250f7e-86b8-4b42-9bd7-e8d7267cfd7d))
-  (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/Diode_Bridge_Vishay_DFSFlat.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Diode_SMD.3dshapes/Diode_Bridge_Vishay_DFSFlat.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

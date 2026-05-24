@@ -230,7 +230,7 @@
 		(roundrect_rratio 0.2083333333)
 		(uuid "9e8737da-5d19-486e-aa3d-63daf5060ec3")
 	)
-	(model "${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_Cree-PLCC4_5x5mm_CW.wrl"
+	(model "${KICAD10_3DMODEL_DIR}/LED_SMD.3dshapes/LED_Cree-PLCC4_5x5mm_CW.step"
 		(offset
 			(xyz 0 0 0)
 		)

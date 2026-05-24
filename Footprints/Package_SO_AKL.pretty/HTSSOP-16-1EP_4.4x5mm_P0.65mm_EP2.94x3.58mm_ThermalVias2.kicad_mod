@@ -979,7 +979,7 @@
 		(solder_mask_margin -0.1)
 		(uuid "3600fe40-2b00-4cba-8d84-545751e56af6")
 	)
-	(model "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/TSSOP-16-1EP_4.4x5mm_Pitch0.65mm_EP3.4x5mm.wrl"
+	(model "${KICAD10_3DMODEL_DIR}/Package_SO.3dshapes/TSSOP-16-1EP_4.4x5mm_Pitch0.65mm_EP3.4x5mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

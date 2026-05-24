@@ -124,7 +124,7 @@
   (pad "21" smd roundrect (at 5.74 -10.16) (size 2 1.78) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1404494382) (tstamp 5beb0280-3106-48c2-8801-b22de531de73))
   (pad "22" smd roundrect (at 5.74 -12.7) (size 2 1.78) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1404494382)
     (solder_paste_margin -0.1) (tstamp dc268e88-275e-4382-b3b1-bfd0f55ca5d5))
-  (model "${KICAD6_3DMODEL_DIR}/Package_DIP.3dshapes/SMDIP-22_W11.48mm.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Package_DIP.3dshapes/SMDIP-22_W11.48mm.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

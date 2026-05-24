@@ -169,7 +169,7 @@
   (pad "34" thru_hole circle (at 1.68 0.305) (size 0.6 0.6) (drill 0.3) (layers *.Cu *.Mask) (tstamp 7af1b3b6-9338-40b3-b173-07af30f60e72))
   (pad "34" thru_hole circle (at 1.68 1.425) (size 0.6 0.6) (drill 0.3) (layers *.Cu *.Mask) (tstamp fd3037e3-631e-4b7b-a632-c8f6a2eccb68))
   (pad "34" thru_hole circle (at 1.68 2.545) (size 0.6 0.6) (drill 0.3) (layers *.Cu *.Mask) (tstamp a57d15bf-968d-4eea-acc4-41ea5630aed0))
-  (model "${KISYS3DMOD}/Package_DFN_QFN.3dshapes/Microsemi_QFN-40-32-2EP_6x8mm_P0.5mm.wrl"
+  (model "${KISYS3DMOD}/Package_DFN_QFN.3dshapes/Microsemi_QFN-40-32-2EP_6x8mm_P0.5mm.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

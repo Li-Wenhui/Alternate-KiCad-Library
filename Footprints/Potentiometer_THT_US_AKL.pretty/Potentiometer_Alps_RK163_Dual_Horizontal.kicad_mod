@@ -84,7 +84,7 @@
   (pad "4" thru_hole circle (at -5 0) (size 2.34 2.34) (drill 1.3) (layers *.Cu *.Mask) (tstamp 4bddffad-ef34-4fac-8e72-18ad6dd073f7))
   (pad "5" thru_hole circle (at -5 -5) (size 2.34 2.34) (drill 1.3) (layers *.Cu *.Mask) (tstamp c98f84b6-0eea-4da8-8d5b-764162957869))
   (pad "6" thru_hole circle (at -5 -10) (size 2.34 2.34) (drill 1.3) (layers *.Cu *.Mask) (tstamp 82d9549f-7c70-42db-b82c-905f0a284aa7))
-  (model "${KICAD6_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Alps_RK163_Dual_Horizontal.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Alps_RK163_Dual_Horizontal.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

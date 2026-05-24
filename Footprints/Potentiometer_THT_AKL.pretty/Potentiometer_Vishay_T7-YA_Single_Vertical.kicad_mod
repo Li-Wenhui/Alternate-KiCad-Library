@@ -37,7 +37,7 @@
   (pad "1" thru_hole circle (at 0 0) (size 1.44 1.44) (drill 0.8) (layers *.Cu *.Mask) (tstamp 1b1609b3-2a51-45f4-87f0-a9d3ca6f0ecf))
   (pad "2" thru_hole circle (at 2.54 -2.54) (size 1.44 1.44) (drill 0.8) (layers *.Cu *.Mask) (tstamp f6a7ae19-7135-4cc7-b1ac-2e873a51bed4))
   (pad "3" thru_hole circle (at 0 -5.08) (size 1.44 1.44) (drill 0.8) (layers *.Cu *.Mask) (tstamp 953603e3-f5e2-48cc-a409-012bd58a1e2e))
-  (model "${KICAD6_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Vishay_T7-YA_Single_Vertical.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Vishay_T7-YA_Single_Vertical.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
