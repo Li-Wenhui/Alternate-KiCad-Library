@@ -44,7 +44,7 @@
   (fp_arc (start 4.75 -1.75) (mid 6.5 0) (end 4.75 1.75) (layer "F.Fab") (width 0.1) (tstamp df3dc257-e0a2-4d24-8768-34f0e7a70c12))
   (pad "1" thru_hole circle (at 0 0) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp 2f0e9cf3-00be-4c4f-95e5-d7dd7347b4e1))
   (pad "2" thru_hole circle (at 5 0) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp b9285f6b-255f-4bf7-8eb6-ee617cf1a6e0))
-  (model "${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Resonator-2Pin_W8.0mm_H3.5mm.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Crystal.3dshapes/Resonator-2Pin_W8.0mm_H3.5mm.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

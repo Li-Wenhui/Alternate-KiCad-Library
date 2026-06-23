@@ -79,7 +79,7 @@
   (pad "1" thru_hole rect (at 0 0) (size 1.55 1.55) (drill 1) (layers *.Cu *.Mask) (tstamp 29910f7f-f339-4c32-bfdf-378b60ed793e))
   (pad "2" thru_hole circle (at 2.5 5) (size 1.55 1.55) (drill 1) (layers *.Cu *.Mask) (tstamp 2831f716-639b-4748-b82a-5b0b7d8a6aa2))
   (pad "3" thru_hole circle (at 5 0) (size 1.55 1.55) (drill 1) (layers *.Cu *.Mask) (tstamp 618ae60c-5c58-4248-b64d-813402406bb7))
-  (model "${KICAD6_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Runtron_RM-065_Vertical.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Runtron_RM-065_Vertical.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -62,7 +62,7 @@
   (fp_circle (center 1.27 0) (end 3.27 0) (layer "F.Fab") (width 0.1) (fill none) (tstamp 9fc668ff-2352-4e0d-8794-27988ac23a1e))
   (pad "1" thru_hole oval (at 0 0) (size 1.6 1.2) (drill 0.7) (layers *.Cu *.Mask) (tstamp 71e41fe1-115b-4da1-9230-282c58d29deb))
   (pad "2" thru_hole oval (at 2.54 0) (size 1.2 1.2) (drill 0.7) (layers *.Cu *.Mask) (tstamp b1793979-bdca-4066-854a-a02141cec7a9))
-  (model "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-18-2_Lens.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-18-2_Lens.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

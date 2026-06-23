@@ -559,7 +559,7 @@
 		(roundrect_rratio 0.1091703057)
 		(uuid "b62cadb4-5e91-491f-a147-e8c3e3a5a85d")
 	)
-	(model "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/HSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.1mm.wrl"
+	(model "${KICAD10_3DMODEL_DIR}/Package_SO.3dshapes/HSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.1mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

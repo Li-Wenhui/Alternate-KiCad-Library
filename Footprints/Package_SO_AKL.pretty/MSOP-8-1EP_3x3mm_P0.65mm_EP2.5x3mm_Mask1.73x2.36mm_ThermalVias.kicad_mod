@@ -110,7 +110,7 @@
   (pad "9" smd roundrect (at 0 0) (size 2.5 3) (layers "F.Cu") (roundrect_rratio 0.1) (tstamp c5d0e30e-e91d-4f39-99e1-7743ac65fd4e))
   (pad "9" thru_hole circle (at 0.5 -0.5) (size 0.6 0.6) (drill 0.3) (property pad_prop_heatsink) (layers "*.Cu") (tstamp e52e20de-3601-44ac-95fc-1b570662a570))
   (pad "9" thru_hole circle (at 0.5 0.5) (size 0.6 0.6) (drill 0.3) (property pad_prop_heatsink) (layers "*.Cu") (tstamp 9aba0210-925b-4580-9be9-4eeec9ef8d70))
-  (model "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/MSOP-8-1EP_3x3mm_P0.65mm_EP1.68x1.88mm.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Package_SO.3dshapes/MSOP-8-1EP_3x3mm_P0.65mm_EP1.68x1.88mm.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

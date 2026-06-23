@@ -94,7 +94,7 @@
   (pad "25" smd roundrect (at 0 0) (size 2.1 2.1) (layers "B.Cu" "B.Mask") (roundrect_rratio 0.119047619) (tstamp f9ef3c3c-c725-4979-90b8-ec6d37c42a0f))
   (pad "25" thru_hole circle (at 0.75 -0.75) (size 0.6 0.6) (drill 0.3) (property pad_prop_heatsink) (layers "*.Cu") (tstamp f162944e-f753-4515-abc4-c17e5227224e))
   (pad "25" thru_hole circle (at 0.75 0.75) (size 0.6 0.6) (drill 0.3) (property pad_prop_heatsink) (layers "*.Cu") (tstamp 01b6510a-8ddc-4068-851a-1716d662f44a))
-  (model "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_S-PVQFN-N24_EP2.1x2.1mm.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_S-PVQFN-N24_EP2.1x2.1mm.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

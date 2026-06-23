@@ -28,7 +28,7 @@
   (pad "1" thru_hole rect (at 0 0) (size 1.05 1.5) (drill 0.75) (layers *.Cu *.Mask) (tstamp 2b99b6c9-94a2-41e4-b76b-36b05af1ab38))
   (pad "2" thru_hole roundrect (at 1.27 0) (size 1.05 1.5) (drill 0.75) (layers *.Cu *.Mask) (roundrect_rratio 0.25) (tstamp 5e6e0875-3eb9-4f06-ad7a-6eed825ed7ca))
   (pad "3" thru_hole roundrect (at 2.54 0) (size 1.05 1.5) (drill 0.75) (layers *.Cu *.Mask) (roundrect_rratio 0.25) (tstamp cc490a0c-83fa-45b1-b93d-e3054ea551b7))
-  (model "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-92L_Inline.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-92L_Inline.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -54,7 +54,7 @@
   (pad "2" smd roundrect (at -2.975 2) (size 1 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 3871c897-70c8-46fa-926a-566f62d13acf))
   (pad "3" smd roundrect (at 2.975 2) (size 1 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 49893dd0-ffd0-48d1-8cee-fcfea5494d07))
   (pad "4" smd roundrect (at 2.975 -2) (size 1 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 3f62a21f-fdcc-44f9-8c8f-4760d8dc9ce1))
-  (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/Diode_Bridge_Diotec_ABS.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Diode_SMD.3dshapes/Diode_Bridge_Diotec_ABS.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

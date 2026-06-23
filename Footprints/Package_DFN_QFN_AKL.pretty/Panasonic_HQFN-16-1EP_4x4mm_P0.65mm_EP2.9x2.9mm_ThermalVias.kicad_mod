@@ -90,7 +90,7 @@
   (pad "17" thru_hole circle (at 1.15 -1.15) (size 0.6 0.6) (drill 0.3) (property pad_prop_heatsink) (layers "*.Cu") (tstamp 00aa2313-3994-4b62-9d78-12363e75ae95))
   (pad "17" thru_hole circle (at 1.2 0) (size 0.6 0.6) (drill 0.3) (property pad_prop_heatsink) (layers "*.Cu") (tstamp 60b8b7aa-feb2-484a-aeb4-da039c61cc52))
   (pad "17" thru_hole circle (at 1.2 1.15) (size 0.6 0.6) (drill 0.3) (property pad_prop_heatsink) (layers "*.Cu") (tstamp cb5cae5a-fa91-4ba2-a891-cfe1cf33f7ad))
-  (model "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Panasonic_HQFN-16-1EP_4x4mm_P0.65mm_EP2.9x2.9mm.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Panasonic_HQFN-16-1EP_4x4mm_P0.65mm_EP2.9x2.9mm.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

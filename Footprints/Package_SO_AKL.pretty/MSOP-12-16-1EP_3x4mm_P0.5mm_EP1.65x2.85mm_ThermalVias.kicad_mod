@@ -140,7 +140,7 @@
   (pad "17" smd roundrect (at 0 0) (size 1.65 2.85) (layers "F.Cu" "F.Mask") (roundrect_rratio 0.1515151515) (tstamp 5f1c7080-8dc5-4fc9-a87a-1a344866c5d7))
   (pad "17" smd roundrect (at 0 0) (size 1.65 2.85) (layers "B.Cu" "B.Mask") (roundrect_rratio 0.1515151515) (tstamp 225f7a49-bbff-477b-9f8f-e08c90b37f5d))
   (pad "17" thru_hole circle (at 0 1) (size 0.6 0.6) (drill 0.3) (property pad_prop_heatsink) (layers "*.Cu") (tstamp 8404b395-fc2d-43dc-b149-fe37be408a7b))
-  (model "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/MSOP-12-16-1EP_3x4mm_Pitch0.5mm_EP1.65x2.85mm.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Package_SO.3dshapes/MSOP-12-16-1EP_3x4mm_Pitch0.5mm_EP1.65x2.85mm.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

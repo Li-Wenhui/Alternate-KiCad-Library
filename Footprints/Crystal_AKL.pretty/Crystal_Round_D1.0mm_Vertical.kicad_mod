@@ -22,7 +22,7 @@
   (fp_circle (center 0.75 0) (end 1.25 0) (layer "F.Fab") (width 0.1) (fill none) (tstamp b59b5fd3-a54e-4bcf-b39d-fdc73feded59))
   (pad "1" thru_hole circle (at 0 0) (size 1 1) (drill 0.5) (layers *.Cu *.Mask) (tstamp 845f0125-3d79-4895-980a-516e7e2aae5f))
   (pad "2" thru_hole circle (at 1.5 0) (size 1 1) (drill 0.5) (layers *.Cu *.Mask) (tstamp 53e7ff42-c7a3-4742-8ced-2ce384fcaa42))
-  (model "${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_Round_D1.0mm_Vertical.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Crystal.3dshapes/Crystal_Round_D1.0mm_Vertical.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

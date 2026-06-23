@@ -67,7 +67,7 @@
   (pad "2" thru_hole oval (at 0 5.08) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask) (tstamp 2ad66e46-da5e-4ad7-971c-e3167d84c8c5))
   (pad "3" thru_hole oval (at 7.62 5.08) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask) (tstamp 4d9d323a-d9eb-4c32-8993-e092c2087a33))
   (pad "4" thru_hole oval (at 7.62 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask) (tstamp 0d59243c-ace6-411f-bf05-5a2f15d7ada8))
-  (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/Diode_Bridge_DIP-4_W7.62mm_P5.08mm.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/Diode_Bridge_DIP-4_W7.62mm_P5.08mm.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

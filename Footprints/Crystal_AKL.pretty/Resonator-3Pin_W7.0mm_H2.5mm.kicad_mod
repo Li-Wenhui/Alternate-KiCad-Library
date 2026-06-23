@@ -35,7 +35,7 @@
   (pad "1" thru_hole circle (at 0 0) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp a911dfd8-3acb-4e8e-88df-c1441e6bd9f8))
   (pad "2" thru_hole circle (at 2.5 0) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp 27ece5cc-c3eb-475e-a7e1-e507027a8aea))
   (pad "3" thru_hole circle (at 5 0) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp 8bac02fd-8e41-4324-90d3-86a057ef18dd))
-  (model "${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Resonator-3Pin_W7.0mm_H2.5mm.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Crystal.3dshapes/Resonator-3Pin_W7.0mm_H2.5mm.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

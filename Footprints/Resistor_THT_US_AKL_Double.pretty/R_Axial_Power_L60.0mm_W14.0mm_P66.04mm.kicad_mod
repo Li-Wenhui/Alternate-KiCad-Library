@@ -56,7 +56,7 @@
   (fp_line (start 63.02 -7) (end 3.02 -7) (layer "F.Fab") (width 0.1) (tstamp dd716962-ef48-4fb8-bdef-7e08ec1ab816))
   (pad "1" thru_hole circle (at 0 0) (size 2.4 2.4) (drill 1.2) (layers *.Cu *.Mask) (tstamp fae91a4f-13be-40ef-9c3d-0a14127c6460))
   (pad "2" thru_hole oval (at 66.04 0) (size 2.4 2.4) (drill 1.2) (layers *.Cu *.Mask) (tstamp 7cb2a9f5-e0c0-41a0-b91b-cb34177079bb))
-  (model "${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_Power_L60.0mm_W14.0mm_P66.04mm.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_Power_L60.0mm_W14.0mm_P66.04mm.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

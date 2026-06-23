@@ -56,7 +56,7 @@
   (fp_rect (start -0.65 -0.7) (end -0.4 0.7) (layer "F.Fab") (width 0.1) (fill solid) (tstamp aad2a0c4-78c2-4faa-b57e-f2a907b7e445))
   (pad "1" smd roundrect (at -1.05 0) (size 0.6 0.45) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 77855554-f613-4c17-9d7f-a968935bbf9f))
   (pad "2" smd roundrect (at 1.05 0) (size 0.6 0.45) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 6a83691e-2b92-4ad3-8c3d-6e6a122eb211))
-  (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

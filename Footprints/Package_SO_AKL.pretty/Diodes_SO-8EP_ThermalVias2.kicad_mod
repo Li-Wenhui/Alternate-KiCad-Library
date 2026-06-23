@@ -125,7 +125,7 @@
     (solder_mask_margin -0.1) (tstamp 07d86091-f6f9-4b23-94b8-387f62961ae4))
   (pad "9" thru_hole circle (at 1 2.05) (size 0.6 0.6) (drill 0.3) (property pad_prop_heatsink) (layers "*.Cu" "*.Mask")
     (solder_mask_margin -0.1) (tstamp a90ef57d-46ed-4753-8251-cebbe064d1c4))
-  (model "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/HSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.1mm.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Package_SO.3dshapes/HSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.1mm.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

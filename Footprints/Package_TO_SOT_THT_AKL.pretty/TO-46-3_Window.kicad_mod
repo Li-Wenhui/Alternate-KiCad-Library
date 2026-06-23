@@ -42,7 +42,7 @@
   (pad "1" thru_hole oval (at 0 0) (size 1.6 1.2) (drill 0.7) (layers *.Cu *.Mask) (tstamp 6290ae3b-09ce-4fcd-9003-05c156385c84))
   (pad "2" thru_hole oval (at 1.27 1.27) (size 1.2 1.2) (drill 0.7) (layers *.Cu *.Mask) (tstamp 89930c63-a5a6-40ff-b84d-b0d61754d72f))
   (pad "3" thru_hole oval (at 2.54 0) (size 1.2 1.2) (drill 0.7) (layers *.Cu *.Mask) (tstamp 07165fc8-d416-4e58-82a9-4ed0f6a598ef))
-  (model "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-46-3_Window.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-46-3_Window.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

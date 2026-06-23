@@ -84,7 +84,7 @@
   (pad "9" thru_hole circle (at 2.1 1) (size 0.6 0.6) (drill 0.3) (property pad_prop_heatsink) (layers "*.Cu") (tstamp b6642022-4e24-436b-b67b-242e1e9d2fb7))
   (pad "9" thru_hole circle (at 2.1 2) (size 0.6 0.6) (drill 0.3) (property pad_prop_heatsink) (layers "*.Cu") (tstamp 1273fb01-e9a9-4c33-9354-d173d64b35e3))
   (pad "9" thru_hole circle (at 2.1 3) (size 0.6 0.6) (drill 0.3) (property pad_prop_heatsink) (layers "*.Cu") (tstamp a29fd185-e92a-42c0-a9bd-1c491b410a23))
-  (model "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Panasonic_HSON-8_8x8mm_P2.00mm.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Panasonic_HSON-8_8x8mm_P2.00mm.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

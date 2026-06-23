@@ -47,7 +47,7 @@
   (pad "2" thru_hole circle (at 0 10.92) (size 2.6 2.6) (drill 1.3) (layers *.Cu *.Mask) (tstamp 96c6ca7e-8010-489e-b635-4e0df0bb72b4))
   (pad "3" thru_hole circle (at -13.3 5.45) (size 6.35 6.35) (drill 4) (layers *.Cu *.Mask) (tstamp 7cee4cd2-0e54-4408-b56e-81f3ec7e2a67))
   (pad "3" thru_hole circle (at 16.9 5.45) (size 6.35 6.35) (drill 4) (layers *.Cu *.Mask) (tstamp eaecd7ab-d9ab-49bb-a582-c12fb0618ad4))
-  (model "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-3.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-3.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

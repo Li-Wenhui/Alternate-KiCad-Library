@@ -68,7 +68,7 @@
   (pad "4" thru_hole oval (at 2.14 3.81) (size 2 1.5) (drill 1) (layers *.Cu *.Mask) (tstamp e304f44b-fab1-4f82-a0cd-7684d0c2a61d))
   (pad "5" thru_hole oval (at 0 5.08) (size 2 1.5) (drill 1) (layers *.Cu *.Mask) (tstamp 310768f5-2e27-45a5-9fc4-77a1739d13ad))
   (pad "7" thru_hole oval (at 2.14 7.62) (size 2 1.5) (drill 1) (layers *.Cu *.Mask) (tstamp 3baab755-bd97-4628-b156-0da9d264a26e))
-  (model "${KICAD6_3DMODEL_DIR}/Package_SIP.3dshapes/PowerIntegrations_eSIP-7F.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Package_SIP.3dshapes/PowerIntegrations_eSIP-7F.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

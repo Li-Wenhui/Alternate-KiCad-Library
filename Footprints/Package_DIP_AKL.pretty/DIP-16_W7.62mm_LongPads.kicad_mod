@@ -99,7 +99,7 @@
   (pad "14" thru_hole oval (at 7.62 5.08) (size 2.4 1.6) (drill 0.8) (layers *.Cu *.Mask) (tstamp d91256d5-ecc0-4875-92de-6e5152610e45))
   (pad "15" thru_hole oval (at 7.62 2.54) (size 2.4 1.6) (drill 0.8) (layers *.Cu *.Mask) (tstamp 970dbb4e-5563-4675-803b-1c4a02d85f8b))
   (pad "16" thru_hole oval (at 7.62 0) (size 2.4 1.6) (drill 0.8) (layers *.Cu *.Mask) (tstamp cbacd616-36b1-4a26-9fcb-762a40e60724))
-  (model "${KICAD6_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-16_W7.62mm.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-16_W7.62mm.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

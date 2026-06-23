@@ -93,7 +93,7 @@
   (pad "1" thru_hole rect (at 0 0) (size 4 2.5) (drill 1.3) (layers *.Cu *.Mask) (tstamp d5df80bb-ea1d-42bb-92c0-54b11e12693b))
   (pad "2" thru_hole oval (at 10.16 7.62) (size 4 2.5) (drill 1.3) (layers *.Cu *.Mask) (tstamp 6b7f8e5d-ea78-4aa5-bb3d-7a6cd713917c))
   (pad "2" thru_hole oval (at 10.16 -7.62) (size 4 2.5) (drill 1.3) (layers *.Cu *.Mask) (tstamp c8e7fb66-3b96-40c2-862c-46f01163784c))
-  (model "${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuseholder_Cylinder-5x20mm_Schurter_FUP_0031.2510_Horizontal_Closed.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Fuse.3dshapes/Fuseholder_Cylinder-5x20mm_Schurter_FUP_0031.2510_Horizontal_Closed.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

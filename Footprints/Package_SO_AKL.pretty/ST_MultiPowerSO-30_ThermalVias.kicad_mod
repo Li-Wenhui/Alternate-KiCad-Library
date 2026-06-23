@@ -383,7 +383,7 @@
   (pad "33" thru_hole circle (at 5.35 -4.15) (size 0.6 0.6) (drill 0.3) (property pad_prop_heatsink) (layers "*.Cu") (tstamp f4ae14a8-350f-472a-8b96-11950b4dbf86))
   (pad "33" thru_hole circle (at 5.35 -2.65) (size 0.6 0.6) (drill 0.3) (property pad_prop_heatsink) (layers "*.Cu") (tstamp 74279d42-6614-43a0-937f-5a7bbecf5c10))
   (pad "33" thru_hole circle (at 5.35 -1.35) (size 0.6 0.6) (drill 0.3) (property pad_prop_heatsink) (layers "*.Cu") (tstamp 14593bd3-268f-4c06-b2d9-881fef5eae76))
-  (model "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/ST_MultiPowerSO-30.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Package_SO.3dshapes/ST_MultiPowerSO-30.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -320,7 +320,7 @@
 		(remove_unused_layers no)
 		(uuid "8b3c16ec-00b8-4cf1-824d-aa574d8b6291")
 	)
-	(model "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Micrel_MLF-8-1EP_2x2mm_P0.5mm_EP0.8x1.3mm_ThermalVias.wrl"
+	(model "${KICAD10_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Micrel_MLF-8-1EP_2x2mm_P0.5mm_EP0.8x1.3mm_ThermalVias.step"
 		(offset
 			(xyz 0 0 0)
 		)

@@ -77,7 +77,7 @@
   (pad "1" thru_hole circle (at 0 0) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask) (tstamp 665744d2-d8f9-462e-87c8-9ca858437d5a))
   (pad "2" thru_hole circle (at 0 -2.54) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask) (tstamp 418bc49f-3054-4229-aa28-6c0928056c76))
   (pad "3" thru_hole circle (at 0 -5.08) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask) (tstamp 99ef79ef-8a97-40f1-97de-024280224911))
-  (model "${KICAD6_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Vishay_148E-149E_Single_Horizontal.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Vishay_148E-149E_Single_Horizontal.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

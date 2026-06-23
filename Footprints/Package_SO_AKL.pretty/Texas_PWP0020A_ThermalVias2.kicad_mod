@@ -224,7 +224,7 @@
     (solder_mask_margin -0.1) (tstamp c4afcf3c-81aa-4bd4-b21c-fb44ea15ff87))
   (pad "21" thru_hole circle (at 1.2 2.4) (size 0.6 0.6) (drill 0.3) (property pad_prop_heatsink) (layers "*.Cu" "*.Mask")
     (solder_mask_margin -0.1) (tstamp 06a8dda5-fb77-4520-900c-88fe9632ab9c))
-  (model "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/Texas_PWP0020A.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Package_SO.3dshapes/Texas_PWP0020A.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

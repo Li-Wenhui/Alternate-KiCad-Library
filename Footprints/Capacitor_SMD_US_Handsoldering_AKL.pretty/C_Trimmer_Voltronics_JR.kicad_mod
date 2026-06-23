@@ -53,7 +53,7 @@
   (fp_circle (center -0.15 0) (end 0.95 0) (layer "F.Fab") (width 0.1) (fill none) (tstamp 87014b7d-f56f-4ca7-a785-3fa04894dcc9))
   (pad "1" smd roundrect (at -1.7 0) (size 1 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp f488d915-3297-4c87-8dcf-d4c0c3fcdd19))
   (pad "2" smd roundrect (at 1.7 0) (size 1 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 41df7935-0666-427e-b050-b7616ade02c9))
-  (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_Trimmer_Voltronics_JR.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_Trimmer_Voltronics_JR.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -40,7 +40,7 @@
   (pad "1" smd roundrect (at -1.7 -0.95) (size 2 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp bb22a428-5add-4941-9355-d3cc7518d6ee))
   (pad "2" smd roundrect (at -1.7 0.95) (size 2 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp af178524-0ef0-44be-976b-a11c2252a5f5))
   (pad "3" smd roundrect (at 1.7 0) (size 2 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp be94e922-211f-4b25-8492-7eab7b07762f))
-  (model "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23W_Handsoldering.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23W_Handsoldering.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

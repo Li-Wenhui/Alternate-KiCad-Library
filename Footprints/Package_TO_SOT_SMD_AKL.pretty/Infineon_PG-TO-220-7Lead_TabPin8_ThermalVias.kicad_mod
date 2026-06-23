@@ -151,7 +151,7 @@
   (pad "8" thru_hole circle (at 6.8 -2.6) (size 0.6 0.6) (drill 0.3) (property pad_prop_heatsink) (layers "*.Cu") (tstamp 5c8d8636-017b-49a5-9dd0-ea008e39f411))
   (pad "8" thru_hole circle (at 6.8 0) (size 0.6 0.6) (drill 0.3) (property pad_prop_heatsink) (layers "*.Cu") (tstamp 485f66ce-7e6c-4786-88b5-45f95ab2eb94))
   (pad "8" thru_hole circle (at 6.8 2.6) (size 0.6 0.6) (drill 0.3) (property pad_prop_heatsink) (layers "*.Cu") (tstamp c4ddcb9d-a833-4a12-a1e2-b4a5b23a2976))
-  (model "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/TO-263-7_TabPin8.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/TO-263-7_TabPin8.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

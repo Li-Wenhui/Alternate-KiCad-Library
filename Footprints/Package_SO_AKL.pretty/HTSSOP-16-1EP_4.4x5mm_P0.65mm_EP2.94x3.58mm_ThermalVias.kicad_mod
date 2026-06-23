@@ -933,7 +933,7 @@
 		(remove_unused_layers no)
 		(uuid "9d7ea454-39db-41d6-9fb1-904eea7a5252")
 	)
-	(model "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/TSSOP-16-1EP_4.4x5mm_Pitch0.65mm_EP3.4x5mm.wrl"
+	(model "${KICAD10_3DMODEL_DIR}/Package_SO.3dshapes/TSSOP-16-1EP_4.4x5mm_Pitch0.65mm_EP3.4x5mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

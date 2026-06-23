@@ -42,7 +42,7 @@
   (pad "1" thru_hole rect (at 0 0 90) (size 1.5 1.5) (drill 0.8) (layers *.Cu *.Mask) (tstamp 2838e7ce-6fde-489a-acb9-39eb6f0bd6a0))
   (pad "2" thru_hole circle (at 2.54 -2.54 90) (size 1.5 1.5) (drill 0.8) (layers *.Cu *.Mask) (tstamp ccdc8d39-9466-4cc3-8afa-b7206cef66e3))
   (pad "3" thru_hole circle (at 5.08 0 90) (size 1.5 1.5) (drill 0.8) (layers *.Cu *.Mask) (tstamp 99979284-1f76-4252-b30e-f84bc6c821d3))
-  (model "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-92_Wide.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-92_Wide.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

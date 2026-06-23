@@ -36,7 +36,7 @@
   (pad "1" thru_hole circle (at 0 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask) (tstamp 7dd95672-7ae6-484d-aa9a-9255ac64dd97))
   (pad "2" thru_hole circle (at 6.25 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask) (tstamp ae5f8b04-0f0d-4985-b88f-e4e598ff77ba))
   (pad "2" thru_hole circle (at 7.5 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask) (tstamp c8d7ec95-9638-4815-87c1-e201a23bc692))
-  (model "${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Rect_L10.0mm_W5.0mm_P5.00mm_P7.50mm.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Rect_L10.0mm_W5.0mm_P5.00mm_P7.50mm.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

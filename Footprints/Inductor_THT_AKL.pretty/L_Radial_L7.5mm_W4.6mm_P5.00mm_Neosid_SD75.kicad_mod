@@ -33,7 +33,7 @@
   (fp_line (start 6.25 2.3) (end 6.25 -2.3) (layer "F.Fab") (width 0.1) (tstamp e2b41b0b-4d2e-4edf-92c4-43c716f71ab0))
   (pad "1" thru_hole circle (at 0 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask) (tstamp 43781fa9-5676-421a-944c-d715ccdb57b9))
   (pad "2" thru_hole circle (at 5 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask) (tstamp 3562ced6-6a4f-4b1e-b062-2db9d9b270f5))
-  (model "${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Radial_L7.5mm_W4.6mm_P5.00mm_Neosid_SD75.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Radial_L7.5mm_W4.6mm_P5.00mm_Neosid_SD75.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -39,7 +39,7 @@
   (fp_line (start 2.87 -2) (end 2.87 2) (layer "F.Fab") (width 0.1) (tstamp fb9118c3-63b8-4bad-b83d-a4c3deaeef7c))
   (pad "1" thru_hole circle (at 0 0) (size 2 2) (drill 1) (layers *.Cu *.Mask) (tstamp ca86b8d6-897b-449c-af4f-02f97425c96e))
   (pad "2" thru_hole oval (at 15.24 0) (size 2 2) (drill 1) (layers *.Cu *.Mask) (tstamp 3819c81d-56a0-4089-9252-2bb5e9d4e885))
-  (model "${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Axial_L9.5mm_D4.0mm_P15.24mm_Horizontal_Fastron_SMCC.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Axial_L9.5mm_D4.0mm_P15.24mm_Horizontal_Fastron_SMCC.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

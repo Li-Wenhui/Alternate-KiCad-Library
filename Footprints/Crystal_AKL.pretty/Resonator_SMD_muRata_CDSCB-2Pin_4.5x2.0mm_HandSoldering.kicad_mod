@@ -33,7 +33,7 @@
   (fp_line (start 2.25 -1) (end -2.25 -1) (layer "F.Fab") (width 0.1) (tstamp c8258049-198c-4ba5-92ea-83570f353744))
   (pad "1" smd rect (at -1.5 0) (size 1 4.55) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp e52f1780-a1ae-4f66-816b-8ff22dd8885b))
   (pad "2" smd rect (at 1.5 0) (size 1 4.55) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp e68a9c18-1aa9-420b-8359-995f54213109))
-  (model "${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Resonator_SMD_muRata_CDSCB-2Pin_4.5x2.0mm.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Crystal.3dshapes/Resonator_SMD_muRata_CDSCB-2Pin_4.5x2.0mm.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

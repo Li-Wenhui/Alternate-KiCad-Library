@@ -277,7 +277,7 @@
 		(roundrect_rratio 0.25)
 		(uuid "c7b7223d-7a0a-4b75-8c7c-5d62bd855dfc")
 	)
-	(model "${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_SK6812_EC15_1.5x1.5mm.wrl"
+	(model "${KICAD10_3DMODEL_DIR}/LED_SMD.3dshapes/LED_SK6812_EC15_1.5x1.5mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

@@ -51,7 +51,7 @@
   (pad "2" thru_hole circle (at -5 0) (size 2 2) (drill 1) (layers *.Cu *.Mask) (tstamp 37a2e55a-b073-4205-a27c-9eb006aeb52b))
   (pad "3" thru_hole circle (at -10 0) (size 2 2) (drill 1) (layers *.Cu *.Mask) (tstamp a07b9905-7d1b-472f-bb4f-7bb97bae248c))
   (pad "4" thru_hole circle (at -15 0) (size 2 2) (drill 1) (layers *.Cu *.Mask) (tstamp e903a3d3-003f-4380-91d4-d4fbc68b2d21))
-  (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/Diode_Bridge_19.0x3.5x10.0mm_P5.0mm.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/Diode_Bridge_19.0x3.5x10.0mm_P5.0mm.step"
     (offset (xyz -15 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

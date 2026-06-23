@@ -45,7 +45,7 @@
   (fp_rect (start -0.525 -0.575) (end -0.325 0.575) (layer "F.Fab") (width 0.1) (fill solid) (tstamp a63e7a84-f418-490a-b9f5-9823d0d0feb4))
   (pad "1" smd roundrect (at -0.8 0) (size 0.8 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 97083822-8ebd-4e0d-aca0-a74cb5354011))
   (pad "2" smd roundrect (at 0.8 0) (size 0.8 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp c77e4a08-c4d9-4e30-aef8-de18f408ccdc))
-  (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_MicroMELF.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Diode_SMD.3dshapes/D_MicroMELF.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

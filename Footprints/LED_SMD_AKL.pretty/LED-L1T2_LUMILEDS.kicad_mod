@@ -240,7 +240,7 @@
 		(roundrect_rratio 0.2083333333)
 		(uuid "746bdede-620e-4e4a-897c-add260156b88")
 	)
-	(model "${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED-L1T2_LUMILEDS.wrl"
+	(model "${KICAD10_3DMODEL_DIR}/LED_SMD.3dshapes/LED-L1T2_LUMILEDS.step"
 		(offset
 			(xyz 0 0 0)
 		)

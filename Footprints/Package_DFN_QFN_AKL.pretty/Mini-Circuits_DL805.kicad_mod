@@ -45,7 +45,7 @@
   (pad "9" smd roundrect (at 0 -1.4025 270) (size 1.205 0.51) (layers "F.Cu" "F.Mask") (roundrect_rratio 0.25) (tstamp 375558cc-775b-4514-8eb5-b5e0553248f4))
   (pad "9" smd roundrect (at 0 1.4525 270) (size 1.105 0.51) (layers "F.Cu" "F.Mask") (roundrect_rratio 0.25) (tstamp 82258dd0-af8e-423e-8771-f35311060cba))
   (pad "9" smd roundrect (at 0 0 270) (size 2.13 1.22) (layers "F.Cu" "F.Mask") (roundrect_rratio 0.2049180328) (tstamp 9c3daa08-705b-4f0a-ba64-5a94b24614fa))
-  (model "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Mini-Circuits_DL805.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Mini-Circuits_DL805.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -41,7 +41,7 @@
   (pad "1" smd rect (at 0 0 90) (size 2 2) (layers "B.Cu" "B.Mask") (tstamp b0cfa2c6-69d2-47a4-8e40-75d451d63777))
   (pad "2" smd circle (at 2.54 -2.54 90) (size 2 2) (layers "B.Cu" "B.Mask") (tstamp 24f79352-06a2-473e-a209-49c0c5fb9133))
   (pad "3" smd circle (at 5.08 0 90) (size 2 2) (layers "B.Cu" "B.Mask") (tstamp 771d502e-91bb-4c82-9328-60006c020822))
-  (model "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-92_Wide.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-92_Wide.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

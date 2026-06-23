@@ -282,7 +282,7 @@
 		(roundrect_rratio 0.25)
 		(uuid "6f8b5360-6e5b-41ad-8761-8a4d308be2d7")
 	)
-	(model "${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_0402_1005Metric.wrl"
+	(model "${KICAD10_3DMODEL_DIR}/LED_SMD.3dshapes/LED_0402_1005Metric.step"
 		(offset
 			(xyz 0 0 0)
 		)

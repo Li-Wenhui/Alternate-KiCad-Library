@@ -62,7 +62,7 @@
   (pad "2" thru_hole oval (at 7.935 0) (size 3 3) (drill 1.5) (layers *.Cu *.Mask) (tstamp f83a8033-4272-435e-a121-7a3d029ea579))
   (pad "3" thru_hole oval (at 42.865 0) (size 3 3) (drill 1.5) (layers *.Cu *.Mask) (tstamp b87a8024-8133-4a4e-81ed-a428a1b04ff1))
   (pad "4" thru_hole oval (at 50.8 0) (size 3 3) (drill 1.5) (layers *.Cu *.Mask) (tstamp 8723e00b-8a68-49ab-95f6-07355baf0340))
-  (model "${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_Shunt_L47.6mm_W9.5mm_PS34.93mm_P50.80mm.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_Shunt_L47.6mm_W9.5mm_PS34.93mm_P50.80mm.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

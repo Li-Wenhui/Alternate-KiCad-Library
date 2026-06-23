@@ -30,7 +30,7 @@
   (fp_line (start 23 2.5) (end 23 -2.5) (layer "F.Fab") (width 0.1) (tstamp ca234047-1d50-40b9-9520-76f1a21d2c02))
   (pad "1" thru_hole circle (at 0 0) (size 2.8 2.8) (drill 1.4) (layers *.Cu *.Mask) (tstamp c25d1e6f-c09e-4781-9289-1ee639deb207))
   (pad "2" thru_hole circle (at 20 0) (size 2.8 2.8) (drill 1.4) (layers *.Cu *.Mask) (tstamp 385503b7-2297-4ff8-8ff9-e4496fb9f1db))
-  (model "${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Box_L26.0mm_W5.0mm_P20.00mm.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Box_L26.0mm_W5.0mm_P20.00mm.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

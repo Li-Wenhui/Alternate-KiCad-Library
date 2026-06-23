@@ -32,7 +32,7 @@
   (pad "1" smd roundrect (at -4.625 2.5) (size 2.5 2.5) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1) (tstamp 5db495c6-6d15-4921-9ccc-321c7c670d84))
   (pad "2" smd roundrect (at 4.625 0) (size 2.5 2.5) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1) (tstamp b87b9de2-505f-4276-b3b3-99aa9d668ce4))
   (pad "3" smd roundrect (at -4.625 -2.5) (size 2.5 2.5) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1) (tstamp 520cc688-c99f-4e3c-b491-51f1f29f62fc))
-  (model "${KICAD6_3DMODEL_DIR}/Potentiometer_SMD.3dshapes/Potentiometer_ACP_CA9-VSMD_Vertical_Hole.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Potentiometer_SMD.3dshapes/Potentiometer_ACP_CA9-VSMD_Vertical_Hole.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -70,7 +70,7 @@
   (pad "13" smd roundrect (at 0 0) (size 2.64 3.54) (layers "F.Cu" "F.Mask") (roundrect_rratio 0.0946969697) (tstamp b2a12505-0688-4c0f-9410-aec581543c6e))
   (pad "13" thru_hole circle (at 0.55 -0.75) (size 0.6 0.6) (drill 0.3) (property pad_prop_heatsink) (layers "F.Cu" "In1.Cu" "B.Cu") (tstamp 81ac3f61-5966-4914-b654-970dc5e46412))
   (pad "13" thru_hole circle (at 0.55 0.75) (size 0.6 0.6) (drill 0.3) (property pad_prop_heatsink) (layers "F.Cu" "In1.Cu" "B.Cu") (tstamp 5a31e5e8-fe7b-4f8b-973c-af4ee01d2b21))
-  (model "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/DFN-12-1EP_4x4mm_P0.65mm_EP2.64x3.54mm.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/DFN-12-1EP_4x4mm_P0.65mm_EP2.64x3.54mm.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

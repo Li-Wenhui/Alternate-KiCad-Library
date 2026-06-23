@@ -25,7 +25,7 @@
   (fp_circle (center 1.25 0) (end 3.75 0) (layer "F.Fab") (width 0.1) (fill none) (tstamp 97c86089-3677-4081-874c-c9154c983ff4))
   (pad "1" thru_hole rect (at 0 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask) (tstamp 7ef69b16-179c-4acf-9865-ef88a2374247))
   (pad "2" thru_hole circle (at 2.5 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask) (tstamp 0733ce24-cd41-45ff-a9e9-f87a003ccf56))
-  (model "${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/CP_Radial_Tantal_D5.0mm_P2.50mm.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Capacitor_THT.3dshapes/CP_Radial_Tantal_D5.0mm_P2.50mm.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

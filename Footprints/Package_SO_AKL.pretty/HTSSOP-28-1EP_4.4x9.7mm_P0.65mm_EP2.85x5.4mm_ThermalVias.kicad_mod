@@ -160,7 +160,7 @@
   (pad "29" smd roundrect (at 0 0) (size 2.85 5.4) (layers "B.Cu" "B.Mask") (roundrect_rratio 0.08771929825) (tstamp 9d762640-b297-4f76-8325-028258ab3b29))
   (pad "29" thru_hole circle (at 1.125 2.4) (size 0.6 0.6) (drill 0.3) (property pad_prop_heatsink) (layers *.Cu) (tstamp a2520b70-c316-40ba-a398-f439aa68c5b8))
   (pad "29" smd roundrect (at 0 0) (size 2.85 5.4) (layers "F.Cu" "F.Mask") (roundrect_rratio 0.08771929825) (tstamp f5e07719-cb72-45c6-9510-43e4c9538507))
-  (model "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/HTSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP3.4x9.5mm.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Package_SO.3dshapes/HTSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP3.4x9.5mm.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

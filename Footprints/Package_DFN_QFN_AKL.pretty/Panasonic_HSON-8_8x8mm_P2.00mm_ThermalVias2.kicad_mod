@@ -127,7 +127,7 @@
     (solder_mask_margin -0.1) (tstamp 73a3ac75-8585-44d8-a0e5-a92aee8eca64))
   (pad "9" thru_hole circle (at 2.8 3.8) (size 0.6 0.6) (drill 0.3) (property pad_prop_heatsink) (layers "*.Cu" "*.Mask")
     (solder_mask_margin -0.1) (tstamp b2158661-8e07-40fc-8fb9-ff1ca132415c))
-  (model "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Panasonic_HSON-8_8x8mm_P2.00mm.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Panasonic_HSON-8_8x8mm_P2.00mm.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

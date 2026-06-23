@@ -30,7 +30,7 @@
   (fp_line (start -2.5 1.25) (end -2.5 -1.25) (layer "F.Fab") (width 0.1) (tstamp ab571057-e388-43d9-8510-cefe75f6912d))
   (pad "1" smd roundrect (at -2.3375 0) (size 1.525 2.65) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.163934) (tstamp 2cf47fc6-5752-4d9f-867f-7748a7813aad))
   (pad "2" smd roundrect (at 2.3375 0) (size 1.525 2.65) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.163934) (tstamp 0b746c48-7fde-4148-8df6-c49d0bea49e8))
-  (model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_2010_5025Metric.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_2010_5025Metric.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

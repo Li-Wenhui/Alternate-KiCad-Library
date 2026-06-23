@@ -61,7 +61,7 @@
   (pad "1" thru_hole circle (at 0 0) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask) (tstamp 9d789915-158b-4f6c-9987-b922022b3ccf))
   (pad "2" thru_hole circle (at 0 -2.54) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask) (tstamp 3a94a619-23b8-4d93-9f51-0ee3dbae2d1a))
   (pad "3" thru_hole circle (at 0 -5.08) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask) (tstamp eeb93c6b-7fc5-4ac0-82c4-c9f7a72b990a))
-  (model "${KICAD6_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Vishay_248GJ-249GJ_Single_Vertical.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Vishay_248GJ-249GJ_Single_Vertical.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -38,7 +38,7 @@
   (pad "2" smd roundrect (at 1.425 1.15) (size 1.95 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1666666667) (tstamp cb88e60a-11f1-4912-99c4-53226b07572d))
   (pad "3" smd roundrect (at 1.425 -1.15) (size 1.95 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1666666667) (tstamp 0ea7ab16-2c09-4cc4-9db2-00b66537350f))
   (pad "4" smd roundrect (at -1.425 -1.15) (size 1.95 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1666666667) (tstamp 6a2ea275-e794-492d-b2fe-a77df6805c88))
-  (model "${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_EuroQuartz_MT-4Pin_3.2x2.5mm_HandSoldering.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_EuroQuartz_MT-4Pin_3.2x2.5mm_HandSoldering.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

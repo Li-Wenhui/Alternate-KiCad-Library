@@ -129,7 +129,7 @@
   (pad "2" thru_hole oval (at 5.08 0) (size 2 3) (drill 1.2) (layers *.Cu *.Mask) (tstamp 9a04e722-6637-488e-bbe5-ed8e7363a4be))
   (pad "3" thru_hole oval (at 12.7 0) (size 2 3) (drill 1.2) (layers *.Cu *.Mask) (tstamp e7ab3126-0a37-4218-a905-726d4355e91a))
   (pad "4" thru_hole oval (at 15.24 0) (size 2 3) (drill 1.2) (layers *.Cu *.Mask) (tstamp 9e6efa13-e71d-4573-973d-bc8de164448e))
-  (model "${KICAD6_3DMODEL_DIR}/Package_SIP.3dshapes/SIP4_Sharp-SSR_P7.62mm_Angled.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Package_SIP.3dshapes/SIP4_Sharp-SSR_P7.62mm_Angled.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

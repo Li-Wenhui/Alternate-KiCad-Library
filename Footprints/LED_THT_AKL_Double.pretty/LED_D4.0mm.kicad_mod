@@ -371,7 +371,7 @@
 		(remove_unused_layers no)
 		(uuid "4afa43db-4131-49ae-a51b-b5e9c8c674f3")
 	)
-	(model "${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_D4.0mm.wrl"
+	(model "${KICAD10_3DMODEL_DIR}/LED_THT.3dshapes/LED_D4.0mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

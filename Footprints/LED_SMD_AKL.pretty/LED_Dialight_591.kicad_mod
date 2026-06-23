@@ -282,7 +282,7 @@
 		(roundrect_rratio 0.1243781095)
 		(uuid "32c1f32a-c97a-4c89-b0d2-581477b12951")
 	)
-	(model "${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_Dialight_591.wrl"
+	(model "${KICAD10_3DMODEL_DIR}/LED_SMD.3dshapes/LED_Dialight_591.step"
 		(offset
 			(xyz 0 0 0)
 		)

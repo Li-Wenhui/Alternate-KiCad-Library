@@ -154,7 +154,7 @@
           (xy 0.08 -0.3325)
         ) (width 0.09) (fill yes))
     ) (tstamp ce5dd995-9c81-429b-b5d5-bc889781a75b))
-  (model "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-28_4x4mm_P0.5mm.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-28_4x4mm_P0.5mm.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

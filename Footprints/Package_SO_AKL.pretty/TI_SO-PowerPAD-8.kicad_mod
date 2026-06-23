@@ -68,7 +68,7 @@
   (pad "7" smd roundrect (at 2.78 -0.635) (size 1.91 0.61) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 20015b6e-4704-4a92-8a25-3109201e2501))
   (pad "8" smd roundrect (at 2.78 -1.905) (size 1.91 0.61) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 19dbeb74-a6aa-4437-8534-46c9f31772ec))
   (pad "9" smd roundrect (at 0 0) (size 2.4 3.1) (layers "F.Cu" "F.Mask") (roundrect_rratio 0.1041666667) (tstamp c4e3d562-90f9-4653-bc60-00a5d8001f40))
-  (model "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/TI_SO-PowerPAD-8.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Package_SO.3dshapes/TI_SO-PowerPAD-8.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

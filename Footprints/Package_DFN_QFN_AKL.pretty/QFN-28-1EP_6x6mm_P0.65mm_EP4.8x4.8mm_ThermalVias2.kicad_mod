@@ -126,7 +126,7 @@
     (solder_mask_margin -0.1) (tstamp 868f98d6-e52f-4486-bb7c-3cec376b5897))
   (pad "29" thru_hole circle (at 2.1 0) (size 0.6 0.6) (drill 0.3) (property pad_prop_heatsink) (layers "*.Cu" "*.Mask")
     (solder_mask_margin -0.1) (tstamp 28e3e6b5-7c99-4a7d-b125-9d0422fcb753))
-  (model "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-28-1EP_6x6mm_P0.65mm_EP4.8x4.8mm.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-28-1EP_6x6mm_P0.65mm_EP4.8x4.8mm.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

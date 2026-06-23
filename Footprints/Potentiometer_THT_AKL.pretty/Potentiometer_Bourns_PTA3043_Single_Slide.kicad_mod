@@ -55,7 +55,7 @@
   (pad "MP" thru_hole circle (at 39.35 5.95) (size 2.7 2.7) (drill 1.7) (layers *.Cu *.Mask) (tstamp 18518e2f-e105-4426-bf1d-55032f76aaaa))
   (pad "MP" thru_hole circle (at 5.35 -2.45) (size 2.7 2.7) (drill 1.7) (layers *.Cu *.Mask) (tstamp 2d650728-4d52-4ea1-8263-05e26d10856a))
   (pad "MP" thru_hole circle (at 38.15 -2.45) (size 2.7 2.7) (drill 1.7) (layers *.Cu *.Mask) (tstamp e41ffe01-f09d-4c34-9b9d-72c572ac9976))
-  (model "${KICAD6_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Bourns_PTA3043_Single_Slide.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Bourns_PTA3043_Single_Slide.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

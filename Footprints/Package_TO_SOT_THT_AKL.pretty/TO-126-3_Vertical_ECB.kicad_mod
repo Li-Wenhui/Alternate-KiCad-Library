@@ -48,7 +48,7 @@
   (pad "1" thru_hole rect (at 0 0) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask) (tstamp bd7d1c43-147d-46dc-99fc-c675ac0f80ba))
   (pad "2" thru_hole oval (at 2.54 0) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask) (tstamp 9c0cb2b7-c720-4887-a54a-d19769026730))
   (pad "3" thru_hole oval (at 5.08 0) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask) (tstamp 2c295cac-b5c8-4f36-892c-7950663685a4))
-  (model "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-126-3_Vertical.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-126-3_Vertical.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

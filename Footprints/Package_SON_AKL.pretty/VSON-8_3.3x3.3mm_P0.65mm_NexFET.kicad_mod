@@ -45,7 +45,7 @@
   (pad "5" smd roundrect (at 1.44 0.97) (size 0.63 0.5) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 7d9f04f2-8252-46ee-9f79-dd512ebdcade))
   (pad "5" smd roundrect (at 1.44 -0.97) (size 0.63 0.5) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp c82fa9e7-1ced-405c-9510-bca76ca62e76))
   (pad "5" smd roundrect (at 1.44 0.33) (size 0.63 0.5) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp e0dfe82b-52db-4c37-a37f-593cebcb8b92))
-  (model "${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/VSON-8_3.3x3.3mm_P0.65mm_NexFET.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Package_SON.3dshapes/VSON-8_3.3x3.3mm_P0.65mm_NexFET.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

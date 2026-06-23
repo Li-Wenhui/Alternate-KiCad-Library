@@ -70,7 +70,7 @@
     (stroke (width 0.1) (type solid)) (fill none) (layer "F.Fab") (tstamp bbe401bd-561e-4418-8bba-f45a5cf703d0))
   (pad "1" thru_hole oval (at 0 0) (size 1.6 1.2) (drill 0.7) (layers "*.Cu" "*.Mask") (tstamp b71bbe52-95f2-4d14-b9e7-c7e924c6d2c6))
   (pad "2" thru_hole oval (at 2.54 0) (size 1.2 1.2) (drill 0.7) (layers "*.Cu" "*.Mask") (tstamp aaa8bc53-4fd4-45f1-8b25-0d6c36278dff))
-  (model "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-18-2.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-18-2.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

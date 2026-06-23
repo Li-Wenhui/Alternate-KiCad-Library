@@ -83,7 +83,7 @@
   (pad "3" smd roundrect (at 2.1 0) (size 6.4 5.8) (layers "F.Cu" "F.Mask") (roundrect_rratio 0.04310344828) (tstamp ef8a0cf9-2e30-4b2e-8faf-3ca4029a3c09))
   (pad "4" smd roundrect (at -4.2 1.14) (size 2.2 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 412fcf9c-da51-485b-aaf4-f6555c69359e))
   (pad "5" smd roundrect (at -4.2 2.28) (size 2.2 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 061ac2a3-fe22-42c7-a8f3-ea75ca0aba70))
-  (model "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/TO-252-4.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/TO-252-4.step"
     (offset (xyz 0.8 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

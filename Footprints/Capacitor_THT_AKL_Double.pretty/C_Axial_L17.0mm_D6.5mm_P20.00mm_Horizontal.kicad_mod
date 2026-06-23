@@ -47,7 +47,7 @@
   (fp_line (start 0 0) (end 1.5 0) (layer "F.Fab") (width 0.1) (tstamp de251413-3c6c-4ee7-9a00-544f6953b62a))
   (pad "1" thru_hole circle (at 0 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask) (tstamp a03eea69-ca93-44ab-8713-115fb00e8dc8))
   (pad "2" thru_hole oval (at 20 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask) (tstamp 44c1d9eb-359d-406f-8e07-2ab1788c73e8))
-  (model "${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Axial_L17.0mm_D6.5mm_P20.00mm_Horizontal.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Axial_L17.0mm_D6.5mm_P20.00mm_Horizontal.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

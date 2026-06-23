@@ -422,7 +422,7 @@
     (solder_mask_margin -0.1) (tstamp 64ee9b21-131d-4797-a309-2cfda5a85f94))
   (pad "37" thru_hole circle (at 2.9 3.2) (size 0.6 0.6) (drill 0.3) (property pad_prop_heatsink) (layers "*.Cu" "*.Mask")
     (solder_mask_margin -0.1) (tstamp 91057b02-6912-423f-887d-fbe2ad573b33))
-  (model "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/ST_PowerSSO-36_SlugDown.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Package_SO.3dshapes/ST_PowerSSO-36_SlugDown.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

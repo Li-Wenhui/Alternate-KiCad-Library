@@ -95,7 +95,7 @@
   (pad "32" smd roundrect (at -2.25 -3.44) (size 0.24 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 97d7b546-858b-4ac1-914a-8d2918a6455c))
   (pad "33" smd roundrect (at -0.23 0) (size 4.675 4.2) (layers "F.Cu" "F.Mask") (roundrect_rratio 0.05952380952)
     (chamfer_ratio 0.1) (chamfer top_left) (tstamp 212e0342-8310-46e1-a48e-5423183ed42a))
-  (model "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Infineon_MLPQ-40-32-1EP_7x7mm_P0.5mm.wrl"
+  (model "${KICAD10_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Infineon_MLPQ-40-32-1EP_7x7mm_P0.5mm.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
