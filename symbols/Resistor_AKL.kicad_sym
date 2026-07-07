@@ -12143,14 +12143,24 @@
 				)
 			)
 		)
-		(property "Tolerance" "±1%"
+		(property "Tolerance" "±5%"
 			(at 0 0 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Voltage_rating" "5"
+			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
 			(effects
 				(font
-					(size 0.762 0.762)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -12360,6 +12370,28 @@
 			)
 		)
 		(property "Description" "SIP-10 5x Resistor Network, Isolated, European Symbol, Alternate KiCad Library"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage_rating" ""
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12889,6 +12921,28 @@
 				)
 			)
 		)
+		(property "Tolerance" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage_rating" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "ki_keywords" "R network parallel isolated eu x5 SIP-10"
 			(at 0 0 0)
 			(show_name no)
@@ -13171,6 +13225,28 @@
 			)
 		)
 		(property "Description" "SIP-12 6x Resistor Network, Isolated, European Symbol, Alternate KiCad Library"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage_rating" ""
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13783,6 +13859,28 @@
 				)
 			)
 		)
+		(property "Torlerance" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage_rating" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "ki_keywords" "R network parallel isolated eu x6 SIP-12"
 			(at 0 0 0)
 			(show_name no)
@@ -14103,6 +14201,28 @@
 			)
 		)
 		(property "Description" "SIP-14 7x Resistor Network, Isolated, European Symbol, Alternate KiCad Library"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Torlerance" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage_rating" ""
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14798,6 +14918,28 @@
 				)
 			)
 		)
+		(property "Torlerance" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage_rating" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "ki_keywords" "R network parallel isolated eu x7 SIP-14"
 			(at 0 0 0)
 			(show_name no)
@@ -15166,6 +15308,28 @@
 				)
 			)
 		)
+		(property "Tolerance" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage_rating" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "ki_keywords" "R network parallel isolated eu x2 SIP-4"
 			(at 0 0 0)
 			(show_name no)
@@ -15436,6 +15600,28 @@
 				)
 			)
 		)
+		(property "Tolerance" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage_rating" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "ki_keywords" "R network parallel isolated eu x2 SIP-4"
 			(at 0 0 0)
 			(show_name no)
@@ -15604,6 +15790,28 @@
 			)
 		)
 		(property "Description" "SIP-6 3x Resistor Network, Isolated, European Symbol, Alternate KiCad Library"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage_rating" ""
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15967,6 +16175,28 @@
 				)
 			)
 		)
+		(property "Tolerance" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage_rating" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "ki_keywords" "R network parallel isolated eu x3 SIP-6"
 			(at 0 0 0)
 			(show_name no)
@@ -16173,6 +16403,28 @@
 			)
 		)
 		(property "Description" "SIP-8 4x Resistor Network, Isolated, European Symbol, Alternate KiCad Library"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage_rating" ""
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16619,6 +16871,28 @@
 				)
 			)
 		)
+		(property "Tolerance" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage_rating" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "ki_keywords" "R network parallel isolated eu x4 SIP-8"
 			(at 0 0 0)
 			(show_name no)
@@ -16874,6 +17148,17 @@
 			)
 		)
 		(property "Tolerance" "±1%"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage_rating" ""
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17709,6 +17994,17 @@
 				)
 			)
 		)
+		(property "Voltage_rating" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "ki_keywords" "R network parallel isolated eu x10 generic"
 			(at 0 0 0)
 			(show_name no)
@@ -18202,6 +18498,17 @@
 				)
 			)
 		)
+		(property "Voltage_rating" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "ki_keywords" "R network parallel isolated eu x2 generic"
 			(at 0 0 0)
 			(show_name no)
@@ -18450,6 +18757,17 @@
 			)
 		)
 		(property "Tolerance" "±1%"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage_rating" ""
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18753,6 +19071,17 @@
 			)
 		)
 		(property "Tolerance" "±1%"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage_rating" ""
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19153,6 +19482,17 @@
 			)
 		)
 		(property "Tolerance" "±1%"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage_rating" ""
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19608,6 +19948,17 @@
 			)
 		)
 		(property "Tolerance" "±1%"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage_rating" ""
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20088,6 +20439,17 @@
 				)
 			)
 		)
+		(property "Voltage_rating" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "ki_keywords" "R network parallel isolated x5 eu generic"
 			(at 0 0 0)
 			(show_name no)
@@ -20381,6 +20743,17 @@
 			)
 		)
 		(property "Tolerance" "±1%"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage_rating" ""
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21003,6 +21376,17 @@
 				)
 			)
 		)
+		(property "Voltage_rating" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "ki_keywords" "R network parallel isolated x7 eu generic"
 			(at 0 0 0)
 			(show_name no)
@@ -21372,6 +21756,17 @@
 			)
 		)
 		(property "Tolerance" "±1%"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage_rating" ""
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22065,6 +22460,17 @@
 				)
 			)
 		)
+		(property "Voltage_rating" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "ki_keywords" "R network parallel isolated x8 eu generic"
 			(at 0 0 0)
 			(show_name no)
@@ -22472,6 +22878,17 @@
 			)
 		)
 		(property "Tolerance" "±1%"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage_rating" ""
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23236,6 +23653,17 @@
 				)
 			)
 		)
+		(property "Voltage_rating" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "ki_keywords" "R network parallel isolated x9 eu generic"
 			(at 0 0 0)
 			(show_name no)
@@ -23681,6 +24109,17 @@
 			)
 		)
 		(property "Tolerance" "±1%"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage_rating" ""
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -53121,6 +53560,28 @@
 			)
 		)
 		(property "Description" "DIP-20 10x Resistor Network, Isolated, European Symbol, Alternate KiCad Library"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "±1%"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage_rating" ""
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)

@@ -16198,6 +16198,17 @@
 				)
 			)
 		)
+		(property "Voltage_rating" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "ki_keywords" "R res resistor us"
 			(at 0 0 0)
 			(show_name no)
@@ -21252,6 +21263,17 @@
 				)
 			)
 		)
+		(property "Voltage_rating" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "ki_keywords" "R network parallel isolated us x10 generic"
 			(at 0 0 0)
 			(show_name no)
@@ -22097,6 +22119,17 @@
 				)
 			)
 		)
+		(property "Voltage_rating" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "ki_keywords" "R network parallel isolated us x10 generic"
 			(at 0 0 0)
 			(show_name no)
@@ -22616,6 +22649,17 @@
 				)
 			)
 		)
+		(property "Voltage_rating" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "ki_keywords" "R network parallel isolated us x2 generic"
 			(at 0 0 0)
 			(show_name no)
@@ -22868,6 +22912,17 @@
 			)
 		)
 		(property "Tolerance" "±1%"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage_rating" ""
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23291,6 +23346,17 @@
 				)
 			)
 		)
+		(property "Voltage_rating" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "ki_keywords" "R network parallel isolated us x4 generic"
 			(at 0 0 0)
 			(show_name no)
@@ -23689,6 +23755,17 @@
 			)
 		)
 		(property "Tolerance" "±1%"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage_rating" ""
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24264,6 +24341,17 @@
 				)
 			)
 		)
+		(property "Voltage_rating" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "ki_keywords" "R network parallel isolated x5 us generic"
 			(at 0 0 0)
 			(show_name no)
@@ -24744,6 +24832,17 @@
 				)
 			)
 		)
+		(property "Voltage_rating" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "ki_keywords" "R network parallel isolated x5 us generic"
 			(at 0 0 0)
 			(show_name no)
@@ -25063,6 +25162,17 @@
 			)
 		)
 		(property "Tolerance" "±1%"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage_rating" ""
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25699,6 +25809,17 @@
 				)
 			)
 		)
+		(property "Voltage_rating" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "ki_keywords" "R network parallel isolated x7 us generic"
 			(at 0 0 0)
 			(show_name no)
@@ -26094,6 +26215,17 @@
 			)
 		)
 		(property "Tolerance" "±1%"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage_rating" ""
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26803,6 +26935,17 @@
 				)
 			)
 		)
+		(property "Voltage_rating" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "ki_keywords" "R network parallel isolated x8 us generic"
 			(at 0 0 0)
 			(show_name no)
@@ -27236,6 +27379,17 @@
 			)
 		)
 		(property "Tolerance" "±1%"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage_rating" ""
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28018,6 +28172,17 @@
 				)
 			)
 		)
+		(property "Voltage_rating" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "ki_keywords" "R network parallel isolated x9 us generic"
 			(at 0 0 0)
 			(show_name no)
@@ -28489,6 +28654,17 @@
 			)
 		)
 		(property "Tolerance" "±1%"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage_rating" ""
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)

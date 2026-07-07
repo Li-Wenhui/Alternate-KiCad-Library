@@ -34,6 +34,7 @@ os.mkdir(path.join(build_path,'content'))
 os.chdir(build_path)
 
 # Copy symbols, footprints and 3dmodels
+print("Copy files, waiting please...")
 shutil.copytree(path.join(src_path,'symbols'), path.join('content','symbols'), dirs_exist_ok = True)
 shutil.copytree(path.join(src_path,'footprints'), path.join('content','footprints'), dirs_exist_ok = True)
 #shutil.copytree(path.join(src_path,'3dmodels'), path.join('content','3dmodels'), dirs_exist_ok = True)
@@ -46,6 +47,7 @@ shutil.copytree(path.join(src_path,'footprints'), path.join('content','footprint
 # This is the with-PCM_ version
 # Replace every occurrence of ""Footprint" ""
 # with ""Footprint" "PCM_"
+print("Modify Footprint with PCM_ prefix, waiting please...")
 findReplace(path.join('content'), b'"Footprint" "', b'"Footprint" "PCM_', '*.*')
 findReplace(path.join('content'), b'"Footprint" "PCM_"', b'"Footprint" ""', '*.*')
 
@@ -82,8 +84,11 @@ with open(metadata, 'w') as of:
     json.dump(md, of, indent=2)
 
 # Zip all files
+print("Build zip package, waiting please...")
 zip_file = 'Alternate-Kicad-Library-PCM-{0}.zip'.format(md['versions'][0]['version'])
 shutil.make_archive(pathlib.Path(zip_file).stem, 'zip', 'content')
 
 # Rename the content directory so we can upload it as an artifact - and avoid the double-zip
 shutil.move('content', 'Alternate-Kicad-Library-PCM-{0}'.format(md['versions'][0]['version']))
+
+print("PCM release package building finished.")
