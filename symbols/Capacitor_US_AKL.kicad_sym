@@ -19243,7 +19243,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD_AKL:C_2220_5650Metric"
+		(property "Footprint" "Capacitor_SMD_AKL:C_2220_5750Metric"
 			(at 0.9652 -3.81 0)
 			(show_name no)
 			(do_not_autoplace no)
