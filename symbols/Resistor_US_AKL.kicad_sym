@@ -16187,7 +16187,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "±1%"
+		(property "Tolerance" "±5%"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16198,7 +16198,7 @@
 				)
 			)
 		)
-		(property "Voltage_rating" ""
+		(property "Voltage" ""
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21252,7 +21252,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "±1%"
+		(property "Tolerance" "±5%"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21263,7 +21263,7 @@
 				)
 			)
 		)
-		(property "Voltage_rating" ""
+		(property "Voltage" ""
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22108,7 +22108,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "±1%"
+		(property "Tolerance" "±5%"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22119,7 +22119,7 @@
 				)
 			)
 		)
-		(property "Voltage_rating" ""
+		(property "Voltage" ""
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22638,7 +22638,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "±1%"
+		(property "Tolerance" "±5%"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22649,7 +22649,7 @@
 				)
 			)
 		)
-		(property "Voltage_rating" ""
+		(property "Voltage" ""
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22911,7 +22911,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "±1%"
+		(property "Tolerance" "±5%"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22922,7 +22922,7 @@
 				)
 			)
 		)
-		(property "Voltage_rating" ""
+		(property "Voltage" ""
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23335,7 +23335,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "±1%"
+		(property "Tolerance" "±5%"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23346,7 +23346,7 @@
 				)
 			)
 		)
-		(property "Voltage_rating" ""
+		(property "Voltage" ""
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23754,7 +23754,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "±1%"
+		(property "Tolerance" "±5%"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23765,7 +23765,7 @@
 				)
 			)
 		)
-		(property "Voltage_rating" ""
+		(property "Voltage" ""
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24330,7 +24330,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "±1%"
+		(property "Tolerance" "±5%"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24341,7 +24341,7 @@
 				)
 			)
 		)
-		(property "Voltage_rating" ""
+		(property "Voltage" ""
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24821,7 +24821,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "±1%"
+		(property "Tolerance" "±5%"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24832,7 +24832,7 @@
 				)
 			)
 		)
-		(property "Voltage_rating" ""
+		(property "Voltage" ""
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25161,7 +25161,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "±1%"
+		(property "Tolerance" "±5%"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25172,7 +25172,7 @@
 				)
 			)
 		)
-		(property "Voltage_rating" ""
+		(property "Voltage" ""
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25798,7 +25798,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "±1%"
+		(property "Tolerance" "±5%"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25809,7 +25809,7 @@
 				)
 			)
 		)
-		(property "Voltage_rating" ""
+		(property "Voltage" ""
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26214,7 +26214,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "±1%"
+		(property "Tolerance" "±5%"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26225,7 +26225,7 @@
 				)
 			)
 		)
-		(property "Voltage_rating" ""
+		(property "Voltage" ""
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26924,7 +26924,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "±1%"
+		(property "Tolerance" "±5%"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26935,7 +26935,7 @@
 				)
 			)
 		)
-		(property "Voltage_rating" ""
+		(property "Voltage" ""
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27378,7 +27378,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "±1%"
+		(property "Tolerance" "±5%"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27389,7 +27389,7 @@
 				)
 			)
 		)
-		(property "Voltage_rating" ""
+		(property "Voltage" ""
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28161,7 +28161,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "±1%"
+		(property "Tolerance" "±5%"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28172,7 +28172,7 @@
 				)
 			)
 		)
-		(property "Voltage_rating" ""
+		(property "Voltage" ""
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28653,7 +28653,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "±1%"
+		(property "Tolerance" "±5%"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28664,7 +28664,7 @@
 				)
 			)
 		)
-		(property "Voltage_rating" ""
+		(property "Voltage" ""
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)

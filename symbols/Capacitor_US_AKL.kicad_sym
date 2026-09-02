@@ -81,7 +81,7 @@
 				)
 			)
 		)
-		(property "Voltage_rating" "50V"
+		(property "Voltage" "50V"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -419,7 +419,7 @@
 				)
 			)
 		)
-		(property "Voltage_rating" "50V"
+		(property "Voltage" "50V"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -699,7 +699,7 @@
 				)
 			)
 		)
-		(property "Tolerance" ""
+		(property "Tolerance" "±10%"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -710,7 +710,7 @@
 				)
 			)
 		)
-		(property "Voltage_rating" "50V"
+		(property "Voltage" "50V"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
